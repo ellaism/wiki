@@ -32,11 +32,11 @@ $(document).ready(function () {
 
 	if (is_touch_device())
 	{
-		$('body').on('ontouchstart', function (e) {
+		$('body').on('touchstart', function (e) {
 			handleClick(e);
 		});
 	} else {
-		$('body').click(function (e) {
+		$('body').on('click', function (e) {
 			handleClick(e);
 		});
 	}

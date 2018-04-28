@@ -4,11 +4,15 @@
 }
 
 .sidebar-toggle {
-  left: 2rem;
-  position: fixed;
+    left: 1.8rem;
+    position: fixed;
     color: #046111;
-    z-index:5;
+    z-index: 5;
     opacity: 1;
+    display: inline-block;
+    padding-top: 0.3rem;
+    padding-right: 1.5rem;
+    padding-left: 1rem;
 }
 
 .sidebar-checkbox:checked + label {
@@ -39,8 +43,24 @@ code {
   word-wrap: break-word;
 }
 
-.masthead{
-  margin-bottom:0 !important;
+.sidebar-overlay .masthead {
+    position: fixed;
+    background-color: white;
+    width: 100%;
+    padding-bottom: 0.5rem;
+    padding-top: 0.4rem;
+    white-space: nowrap;
+    margin-bottom: 0;
+}
+
+.sidebar-overlay .masthead-spacer {
+    height: 3.5rem;
+}
+
+@media (min-width: 40em) {
+    .sidebar-overlay .masthead {
+        padding-bottom: 0.5rem;
+    }
 }
 
 #sidebar-checkbox:checked ~ .sidebar-toggle {
@@ -231,4 +251,37 @@ body .page__footer {
 .sidebar-container {
     height: auto;
     z-index: 16;
+}
+
+@media (max-width: 48em) {
+    .sidebar-overlay .masthead-title {
+        text-align: left;
+    }
+    .sidebar-overlay .masthead-title small {
+        display: inline-block;
+    }
+}
+
+.masthead-spacer
+{
+    height: 3.6rem;
+}
+
+@media (max-width: 40em) {
+    .sidebar-toggle {
+        float: left;
+        position: static;
+        padding-top: 0.75rem;
+    }
+
+    .sidebar-overlay .masthead .container
+    {
+        margin-left: 0;
+    }
+}
+
+.masthead #sidebar-checkbox:checked ~ .sidebar, .masthead #sidebar-checkbox:checked ~ .wrap, #sidebar-checkbox:checked ~ .sidebar-toggle
+{
+    transform: none;
+    -webkit-transform: none;
 }
