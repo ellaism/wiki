@@ -51,6 +51,7 @@ code {
     padding-top: 0.4rem;
     white-space: nowrap;
     margin-bottom: 0;
+    z-index: 2;
 }
 
 .sidebar-overlay .masthead-spacer {
@@ -284,4 +285,22 @@ body .page__footer {
 {
     transform: none;
     -webkit-transform: none;
+}
+
+.masthead .sidebar-toggle:before {
+    background-image: -webkit-linear-gradient(to bottom, #046111, #046111 20%, #fff 20%, #fff 40%, #046111 40%, #046111 60%, #fff 60%, #fff 80%, #046111 80%, #046111 100%);
+    background-image:    -moz-linear-gradient(to bottom, #046111, #046111 20%, #fff 20%, #fff 40%, #046111 40%, #046111 60%, #fff 60%, #fff 80%, #046111 80%, #046111 100%);
+    background-image:     -ms-linear-gradient(to bottom, #046111, #046111 20%, #fff 20%, #fff 40%, #046111 40%, #046111 60%, #fff 60%, #fff 80%, #046111 80%, #046111 100%);
+    background-image:         linear-gradient(to bottom, #046111, #046111 20%, #fff 20%, #fff 40%, #046111 40%, #046111 60%, #fff 60%, #fff 80%, #046111 80%, #046111 100%);
+}
+
+.masthead .sidebar-toggle:active, #sidebar-checkbox:focus ~ .masthead .sidebar-toggle, #sidebar-checkbox:checked ~ .masthead sidebar-toggle
+{
+    background-color: #fff;
+    color: #046111;
+}
+
+.sidebar #tipue_search_input
+{
+    border: none;
 }
