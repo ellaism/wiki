@@ -1,4 +1,4 @@
-## [Ellaism](/index.html)
+## [Ellaism](/wiki/index.html)
 - [FAQ](FAQ)
 - [Pool List](Pool-List)
 - [Troubleshooting Mining](Troubleshooting-Mining)
