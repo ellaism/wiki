@@ -5,6 +5,11 @@ $(document).ready(function () {
 		return el;
 	}
 
+	function is_touch_device() {
+		return 'ontouchstart' in window        // works on most browsers
+			|| navigator.maxTouchPoints;       // works on IE10/11 and Surface
+	};
+
 	// Open the sidebar on load on bigger screens
 	if ($(window).width() > 1540) {
 		$('#sidebar-checkbox').prop('checked', true)
@@ -12,7 +17,7 @@ $(document).ready(function () {
 	// Hook up search
 	$('#tipue_search_input').tipuesearch({'show': 99});
 
-	$('body').click(function (e) {
+	function handleClick(e) {
 		var x = $('#sidebar-checkbox')[0];
 		if (e.target.id != 'sidebar-checkbox') {
 			if (!findAncestor(e.target, 'sidebar-container')) {
@@ -23,7 +28,18 @@ $(document).ready(function () {
 				}
 			}
 		}
-	});
+	}
+
+	if (is_touch_device())
+	{
+		$('body').on('ontouchstart', function (e) {
+			handleClick(e);
+		});
+	} else {
+		$('body').click(function (e) {
+			handleClick(e);
+		});
+	}
 });
 
 //Header anchor links from http://blog.parkermoore.de/2014/08/01/header-anchor-links-in-vanilla-javascript-for-github-pages-and-jekyll/

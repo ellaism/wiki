@@ -148,6 +148,19 @@ body .page__footer {
     left: 0;
 }
 
+
+.tipue_search_right #tipue_search_input {
+    width: 200px;
+    -webkit-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+}
+
+@media (min-width: 48em) {
+    .tipue_search_right #tipue_search_input {
+        width: 240px;
+    }
+}
+
 .page__footer footer {
     max-width: 1024px;
     margin-left: auto;
