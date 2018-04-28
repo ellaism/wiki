@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+{% include header.html %}
+
+<body class="sidebar-overlay">
+<!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
+     styles, `#sidebar-checkbox` for behavior. -->
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+<label for="sidebar-checkbox" class="sidebar-toggle"></label>
+  {% include sidebar.html %}
+
+  <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
+         content to avoid any CSS collisions with our real content. -->
+  <div class="wrap">
+    <div class="masthead">
+      <div class="container">
+        <h1 class="masthead-title">
+          {{ page.title }}
+          <a href="{{ site.baseurl }}/" title="Home"><small>{{ site.title }}</small></a>
+        </h1>
+      </div>
+    </div>
+
+    <div class="container content">
+      <div id="tipue_search_content"></div>
+      {{ content }}
+    </div>
+  </div>
+
+  {% if page.hide_footer %} {% else %} {% include footer.html %} {% endif %}
+</body>
+
+</html>
