@@ -51,6 +51,7 @@ code {
     padding-top: 0.4rem;
     white-space: nowrap;
     margin-bottom: 0;
+    z-index: 2;
 }
 
 .sidebar-overlay .masthead-spacer {
