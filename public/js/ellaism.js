@@ -1,15 +1,27 @@
 $(document).ready(function () {
+
+	function findAncestor(el, cls) {
+		while ((el = el.parentElement) && !el.classList.contains(cls)) ;
+		return el;
+	}
+
 	// Open the sidebar on load on bigger screens
 	if ($(window).width() > 1540) {
 		$('#sidebar-checkbox').prop('checked', true)
 	}
 	// Hook up search
-	$('#tipue_search_input').tipuesearch({ 'show': 99 });
+	$('#tipue_search_input').tipuesearch({'show': 99});
 
-	$('.wrap').click(function(e) {
+	$('body').click(function (e) {
 		var x = $('#sidebar-checkbox')[0];
-		if (x.checked) {
-			x.checked = false;
+		if (e.target.id != 'sidebar-checkbox') {
+			if (!findAncestor(e.target, 'sidebar-container')) {
+				if (e.target.className != 'sidebar-container') {
+					if (x.checked) {
+						x.checked = false;
+					}
+				}
+			}
 		}
 	});
 });
@@ -18,7 +30,7 @@ $(document).ready(function () {
 var anchorForId = function (id) {
 	var anchor = document.createElement("a");
 	anchor.className = "header-link";
-	anchor.href      = "#" + id;
+	anchor.href = "#" + id;
 	anchor.innerHTML = "<i class=\"fa fa-link\"></i>";
 	return anchor;
 };

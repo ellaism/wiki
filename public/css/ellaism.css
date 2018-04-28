@@ -211,3 +211,11 @@ body .page__footer {
     margin-bottom: 10px;
 }
 
+.sidebar-item {
+    margin-bottom: 16px;
+}
+
+.sidebar-container {
+    height: auto;
+    z-index: 16;
+}

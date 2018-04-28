@@ -1,5 +1,6 @@
 <!-- Toggleable sidebar -->
 <div class="sidebar" id="sidebar">
+  <div class="sidebar-container">
   <div class="sidebar-item">
     <form action="{{ page.url | relative_url }}">
       <div class="tipue_search_left">
@@ -16,9 +17,5 @@
     {% capture sidebar %}{% include _Sidebar.md %}{% endcapture %} {{ sidebar | markdownify }}
   </nav>
 
-  <div class="sidebar-item">
-    <p>
-
-    </p>
   </div>
 </div>
