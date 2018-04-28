@@ -1,7 +1,3 @@
----
-title: Troubleshooting Mining
----
-
 ## Install Drivers
 
 If you use Nvidia, make sure CUDA toolkit is installed. On the other hand, choose OpenCL if you have an AMD card.
