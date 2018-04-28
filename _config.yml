@@ -2,7 +2,7 @@ title: Ellaism Wiki
 defaults:
   -
     scope:
-      path: "wiki/"
+      path: ""
     values:
       layout: "default"
 markdown: kramdown
