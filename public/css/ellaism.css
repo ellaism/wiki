@@ -54,6 +54,8 @@ code {
     z-index: 2;
 }
 
+.hidden { display: none; }
+
 .sidebar-overlay .masthead-spacer {
     height: 3.5rem;
 }
