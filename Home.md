@@ -1,5 +1,4 @@
 ---
-title: Ellaism
 permalink: index.html
 ---
 

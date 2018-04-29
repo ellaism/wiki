@@ -1,3 +1,6 @@
+---
+title: Pool List
+---
 
 <div id="pool-list" markdown="1">
 
