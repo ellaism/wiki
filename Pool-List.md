@@ -1,10 +1,7 @@
 ---
 title: Pool List
 ---
-**Pools that Donate to Dev Fund**
-{: .hidden}
-The Ellaism Dev Pool is used to keep the Dev Fund going, and other pools also donate to Dev Fund.
-{: .hidden}
+
 <div id="pool-page" markdown="1">
 
 **Pools that Donate to Dev Fund**
@@ -27,11 +24,13 @@ The Ellaism Dev Pool is used to keep the Dev Fund going, and other pools also do
 Ellaism maintains its own fork of [open-ethereum-pool](https://github.com/ellaism/open-ethereum-pool) with improvements of memory usage, network latency and PPLNS support. Below is the list of pools using this fork.
 
 <div id="oe-pools" markdown="1">
+
 * [Dev Mining Pool](https://pool.ellaism.org/)
 * [Cryptobitpool](http://ella.cryptobitpool.eu/)
 * [Ellaismpool.com](http://ellaismpool.com)
 * [Nonlocal](https://pool.nonlocal.ca)
 * [poolHUB](http://ella.poolhub.org/)
+
 </div>
 
 **All Pools**
@@ -62,4 +61,5 @@ Other pools may also have advantages in their setup or shares of mining fees. Co
   <li><a href="http://ella.digipools.org/">DigiPools</a></li>
 </ul>
 </div>
+
 </div>
