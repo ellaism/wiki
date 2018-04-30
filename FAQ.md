@@ -1,3 +1,7 @@
+---
+title: FAQ
+---
+
 **Does Ellaism have or plan to have masternodes?**
 
 A. At this time no. We are leaning more to a BTC relay/atomic swap platform
