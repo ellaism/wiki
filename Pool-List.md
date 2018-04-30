@@ -11,7 +11,8 @@ The Ellaism Dev Pool is used to keep the Dev Fund going, and other pools also do
 
 The Ellaism Dev Pool is used to keep the Dev Fund going, and other pools also donate to Dev Fund.
 
-<ul class="dev-pools">
+<div class="dev-pools">
+<ul>
   <li><a href="https://pool.ellaism.org">Dev Mining Pool</a></li>
   <li><a href="http://ella.pool.sexy">Pool Sexy</a> (2.5% of 0.25% mining fees)</li>
   <li><a href="http://ella.cryptobitpool.eu">Cryptobitpool</a> (25% of 0.1% mining fees)</li>
@@ -19,6 +20,7 @@ The Ellaism Dev Pool is used to keep the Dev Fund going, and other pools also do
   <li><a href="https://pool.nonlocal.ca">Nonlocal</a> (100% of 1% mining fees)</li>
   <li><a href="https://ucrypto.net/currency/?curr=ELLA">uCrypto</a> (5% of 0.5% mining fees)</li>
 </ul>
+</div>
 
 **Pools using Ellaism's version of [open-ethereum-pool](https://github.com/ellaism/open-ethereum-pool)**
 
@@ -36,7 +38,8 @@ Ellaism maintains its own fork of [open-ethereum-pool](https://github.com/ellais
 
 Other pools may also have advantages in their setup or shares of mining fees. Contact core@ellaism.org or ping @ellaismer on [Discord](https://discord.ellaism.org/) if you want your pool added to this list.
 
-<ul class="all-pools">
+<div class="all-pools">
+<ul>
   <li><a href="http://ella.ethash-coins.ru">Ethash-coins.ru</a></li>
   <li><a href="http://ellaism.2zo.pw">2zo.pw</a></li>
   <li><a href="http://ella.coinminer.space">CoinminerSpace</a></li>
@@ -58,4 +61,5 @@ Other pools may also have advantages in their setup or shares of mining fees. Co
   <li><a href="http://comining.io/">Comining</a></li>
   <li><a href="http://ella.digipools.org/">DigiPools</a></li>
 </ul>
+</div>
 </div>
