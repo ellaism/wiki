@@ -2,8 +2,6 @@
 title: Pool List
 ---
 
-<div id="pool-page" markdown="1">
-
 **Pools that Donate to Dev Fund**
 
 The Ellaism Dev Pool is used to keep the Dev Fund going, and other pools also donate to Dev Fund.
@@ -60,6 +58,4 @@ Other pools may also have advantages in their setup or shares of mining fees. Co
   <li><a href="http://comining.io/">Comining</a></li>
   <li><a href="http://ella.digipools.org/">DigiPools</a></li>
 </ul>
-</div>
-
 </div>
