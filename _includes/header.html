@@ -8,7 +8,7 @@
 
   <title>
     {% if page.title == "Home" %}
-      {{ site.title }} &middot; {{ site.tagline }} {% else %} {{ page.title }} &middot; {{ site.title }}
+      {{ site.title }} &middot; {{ site.tagline }} {% else %} {{ page.title }}{% if page.title != "" %} &middot; {% endif %}{{ site.title }}
     {% endif %}
   </title>
 
