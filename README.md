@@ -34,3 +34,24 @@ Change update_wiki.sh to use the paths that you used to setup the repo's.
 
 On the wiki that you want to publish to static pages, configure the webhook.
 
+
+### WikiLoader JavaScript
+
+There is a jQuery plugin that allows you to load a piece of content from the wiki static pages.  GitHub pages sends a CORS header that allows you to load content onto any page.
+
+Load the plugin on your page that will receive the content:
+
+`<script src="/js/wiki-loader.js"></script>`
+
+Add a div to hold the loading indicator and a div to hold your content. The "id" of the div must match the id of div from the wiki page that you are trying to load. If you want to load the entire wiki page, use "wiki-page-content" as your id.  The data-wiki-page attribute should point to the URL of the page that holds the content you want to load.  There is an optional attribute called "data-wiki-fail-message" that will be displayed with a link to the content if the request fails.
+
+```
+<div class="wiki-loader"></div>
+<div id="wiki-page-content" data-wiki-page="https://wiki.ellaism.org/Pool-List" data-wiki-fail-message="View the complete pool list on the wiki"></div>
+```
+
+Make sure to run the plugin after the page loads:
+
+`$(".wiki-loader").WikiLoader();`
+
+
