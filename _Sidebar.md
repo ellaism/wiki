@@ -1,4 +1,4 @@
-## [Ellaism](/wiki/index.html)
+## [Ellaism](/index.html)
 - [FAQ](FAQ)
 - [Pool List](Pool-List)
 - [Supported Exchanges](Supported-Exchanges)
