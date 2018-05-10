@@ -2,9 +2,6 @@
 title: "Supported Exchange"
 ---
 
-## Supported Exchanges
-
-<div id="supported-exchanges" markdown="1">
 We have five exchanges currently supporting Ellaism trading:
 
 * [LDVBank](https://ldvbank.com/en-us/trading/)
@@ -12,5 +9,3 @@ We have five exchanges currently supporting Ellaism trading:
 * [Stocks Exchange](https://stocks.exchange/trade/ELLA/BTC)
 * [Cryptobroker](https://trade.cryptobroker.io/markets/ellabtc)
 * [Bisq](https://bisq.network/)
-
-</div>
