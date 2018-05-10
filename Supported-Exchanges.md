@@ -4,7 +4,7 @@ title: "Supported Exchange"
 
 ## Supported Exchanges
 
-We have four exchanges currently supporting Ellaism trading:
+We have five exchanges currently supporting Ellaism trading:
 
 * [LDVBank](https://ldvbank.com/en-us/trading/)
 * [Cryptopia](https://www.cryptopia.co.nz/Exchange?market=ELLA_BTC)
