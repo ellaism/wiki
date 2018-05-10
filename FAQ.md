@@ -8,7 +8,7 @@ A. At this time no. We are leaning more to a BTC relay/atomic swap platform
 
 **What exchanges is Ellaism on.**
 
-A. Currently we are on 2 exchanges. [https://stocks.exchange/](https://stocks.exchange/) and [https://www.cryptopia.co.nz/](https://www.cryptopia.co.nz/)
+A. Currently we are listed on 5 exchanges. [See the complete list](/Supported-Exchanges).
 
 **How is Ellaism different from Ubiq or Eth?**
 
