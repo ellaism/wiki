@@ -7,6 +7,9 @@ Ellaism also has a clearly defined monetary policy, with around 280 million coin
 
 # Information and Community
 ## A
+### 1
+### 2
+### 3
 ## B
 
 Ellaism has a welcoming and strong community. Its Twitter, Discord server, forum and other
