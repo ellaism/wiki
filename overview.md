@@ -6,6 +6,8 @@ Ellaism is an Ethereum clone using a blend of ETC and ETH code, and intends to u
 Ellaism also has a clearly defined monetary policy, with around 280 million coins in total. See also [Comparison of Different Ethereum Networks](/comparison/).
 
 # Information and Community
+## A
+## B
 
 Ellaism has a welcoming and strong community. Its Twitter, Discord server, forum and other
 parts are managed by different community members.
