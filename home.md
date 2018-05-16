@@ -1,7 +1,7 @@
 <!-- TITLE: Home -->
 
 
-> **Hard fork for Ellaism network at block 2,000,000, to enable:**
+### > **Hard fork for Ellaism network at block 2,000,000, to enable:**
 * WebAssembly: pwasm as in Kovan.[^1]
 * Byzantium: EIP100, EIP140, EIP196, EIP197, EIP198, EIP211, EIP214, EIP658.[^2]
 
