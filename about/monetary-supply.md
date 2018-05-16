@@ -4,6 +4,7 @@
 
 ![Monetary Supply](/uploads/monetary-supply.png "Monetary Supply"){.align-center}
 
+|-------------------------------------|--------------|-------------------|-----|----------|----------|--------|
 |Years In Era 1	                     | 4.44		     | Uncle Miner	|0	 | 0.125	|0.125	| 0.25 |
 |Years in Eras 2                    |+	4.44	   | Total	             |4	  | 0.25	  |0.25	   | 4.5    |
 							
