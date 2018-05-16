@@ -7,7 +7,7 @@ have additional ones, but they can be easily ported to other networks in terms
 of *weeks*. So for this comparison, we focus on pre-mine, coin distribution,
 philosophy, and community.
 
-## Ethereum
+# Ethereum
 
 The chain by *Ethereum Foundation* is the oldest and currently the most
 valuable. Launching this coin, the Foundation issued an ICO of 60 million ETH
@@ -32,7 +32,7 @@ this is a good thing because it allows the coin to change much faster. Many
 others don't like this fact that a "decentralized cryptocurrency" is, in fact,
 centralized, and have switched to other coins like Ethereum Classic.
 
-## Ethereum Classic
+# Ethereum Classic
 
 Ethereum Classic is a community split that happened during the DAO hard fork.
 Compared with Ethereum, it has a strong principle of "code is law" and
@@ -45,7 +45,7 @@ pre-mine. A 72 million pre-mine, even after the 210 million coins are all mined,
 still equates to more than 30% of the network. Many people consider this to be a
 problem, while others do not.
 
-## Expanse
+# Expanse
 
 The Expanse network is one of the early forks of Ethereum. Compared with
 Ethereum and Ethereum Classic, its community is smaller. The Expanse network
@@ -54,7 +54,7 @@ founder controls the private key.
 
 The Expanse network also has the Tokenlab project.
 
-## Ubiq
+# Ubiq
 
 Ubiq is a re-launch of Jumbucks (JBS) and is advertised to be no pre-mine. While
 this is true, some people criticise that Jumbucks is a Proof of Stake coin (in
@@ -68,7 +68,7 @@ The Ubiq development team is run by donations. This fact, combined with that it
 is advertised as being no pre-mine, attracts some developers. Ubiq also has the
 unique *Flux Difficulty Algorithm*.
 
-## Ellaism
+# Ellaism
 
 Ellaism is designed to be a "pure" coin. A coin that is as fair as Bitcoin.
 Compared with Ubiq, the only other Ethereum-like coin here that has no pre-mine
@@ -80,10 +80,21 @@ donations](/roadmap/). While this fact makes the coin have a good long-term
 foundation, people argue that this would result in a slower initial coin growth
 in the beginning. Ellaism's community size is also small right now.
 
-## Specialized Ethereum Networks
+# Specialized Ethereum Networks
 
 There are also other specialized Ethereum networks that serves some specific
 functionalities based on the Ethereum protocol. Notable ones include:
 
 * WhaleCoin: A social network based on Ethereum.
 * Musicoin: Direct payments for musicians.
+
+## Appendix: Comparison Table
+
+| Name             | Dev Fees | ICO Premine |   Dev Premine | Genesis Block | PCS | DCS |
+|------------------|----------|-------------|---------------|---------------|------------------------------------|------------------------------------|
+| Ethereum         |        0 |  60 million |    12 million | 72 million    |                               >50% |                                13% |
+| Ethereum Classic |        0 |  60 million |    12 million | 72 million    |                               >50% |                                13% |
+| Expanse          |        0 |           0 | 11.11 million | 11.11 million |                               >50% |                               >50% |
+| Ubiq             |        0 |           0 |             0 | 36 million    |                               >50% |                                  0 |
+| WhaleCoin        |      33% |           0 |             0 | 0             |                                  0 |                                33% |
+| Ellaism          |        0 |           0 |             0 | 0             |                                  0 |                                  0 |
