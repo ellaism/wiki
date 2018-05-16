@@ -1,6 +1,6 @@
 ![Logo](/uploads/logo.png "Logo"){.pagelogo}
 <!-- TITLE: Dev Fund -->
-<!-- SUBTITLE: A stable network with no premine and no dev fees -->
+<!-- SUBTITLE: Ellaism - A stable network with no premine and no dev fees -->
 
 The Dev Fund [0xe9C2d958E6234c862b4AfBD75b2fd241E9556303](https://explorer.ellaism.org/addr/0xe9C2d958E6234c862b4AfBD75b2fd241E9556303) is a multisig wallet used to set up the core development team, operate infrastructures of Ellaism, and support other development activities related to the Ellaism blockchain. You can find the current signer information, deployment details and instructions for verifying the proof from [this document](https://github.com/ellaism/meta/tree/master/multisig). [Financial reports](https://github.com/ellaism/meta/tree/master/finance) are published every month for transparency. You can learn more about the role which Dev Fund and Ellaism Core plays in the whole Ellaism community from the [roadmap](https://ellaism.org/roadmap). Currently the fund is used for:
 
