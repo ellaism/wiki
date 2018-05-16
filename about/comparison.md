@@ -9,14 +9,14 @@ philosophy, and community.
 
 # Comparison Table
 
-| Name             | Dev Fees | ICO Premine |   Dev Premine | Genesis Block | PCS | DCS |
-|------------------|----------|-------------|---------------|---------------|------------------------------------|------------------------------------|
-| Ethereum         |        0 |  60 million |    12 million | 72 million    |                               >50% |                                13% |
+| Name                      | Dev Fees | ICO Premine |   Dev Premine | Genesis Block | PCS | DCS |
+|---------------------------|----------|-------------|---------------|---------------|------------------------------------|------------------------------------|
+| Ethereum                |        0 |  60 million |    12 million | 72 million    |                               >50% |                                13% |
 | Ethereum Classic |        0 |  60 million |    12 million | 72 million    |                               >50% |                                13% |
-| Expanse          |        0 |           0 | 11.11 million | 11.11 million |                               >50% |                               >50% |
-| Ubiq             |        0 |           0 |             0 | 36 million    |                               >50% |                                  0 |
-| WhaleCoin        |      33% |           0 |             0 | 0             |                                  0 |                                33% |
-| Ellaism          |        0 |           0 |             0 | 0             |                                  0 |                                  0 |
+| Expanse                 |        0 |           0 | 11.11 million | 11.11 million |                               >50% |                               >50% |
+| Ubiq                        |        0 |           0 |             0 | 36 million    |                               >50% |                                  0 |
+| WhaleCoin             |      33% |           0 |             0 | 0             |                                  0 |                                33% |
+| Ellaism                    |        0 |           0 |             0 | 0             |                                  0 |                                  0 |
 
 # Ethereum
 
