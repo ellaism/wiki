@@ -18,7 +18,6 @@ parts are managed by different community members.
 * [Reddit](https://www.reddit.com/r/ellaism/)
 * [Community Twitter](https://twitter.com/EllaismProject)
 * [Core Twitter](https://twitter.com/EllaismCore)
-* IRC: [#ellaism](http://webchat.freenode.net/?channels=ellaism)
 * [Code of Conduct](https://github.com/ellaism/meta/blob/master/conduct.md) (Draft)
 
 ## Clients
