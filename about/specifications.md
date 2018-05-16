@@ -1,7 +1,6 @@
 <!-- TITLE: Specifications -->
 <!-- SUBTITLE: A stable Ethereum-like network with no premine and no dev fees -->
 
-> Goals
 
 # Dispute Resolution
 
