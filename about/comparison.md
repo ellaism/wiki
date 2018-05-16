@@ -7,7 +7,7 @@ have additional ones, but they can be easily ported to other networks in terms
 of *weeks*. So for this comparison, we focus on pre-mine, coin distribution,
 philosophy, and community.
 
-# Appendix: Comparison Table
+# Comparison Table
 
 | Name             | Dev Fees | ICO Premine |   Dev Premine | Genesis Block | PCS | DCS |
 |------------------|----------|-------------|---------------|---------------|------------------------------------|------------------------------------|
