@@ -1,4 +1,4 @@
-<!-- TITLE: Home -->
+<!-- TITLE: Ellaism Wiki -->
 
 
 > **Hard fork for Ellaism network at block 2,000,000, to enable:**
