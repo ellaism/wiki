@@ -1,3 +1,4 @@
+![Logo](/uploads/logo.png "Logo"){.pagelogo}
 <!-- TITLE: Comparison -->
 <!-- SUBTITLE: A stable Ethereum-like network with no premine and no dev fees -->
 
