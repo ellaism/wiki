@@ -1,5 +1,5 @@
 <!-- TITLE: Mining -->
-<!-- SUBTITLE: A quick summary of Mining Index -->
+<!-- SUBTITLE: Summary of Mining -->
 
 * [A](mining/A)
 * [B](mining/B)
