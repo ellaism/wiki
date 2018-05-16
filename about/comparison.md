@@ -88,7 +88,7 @@ functionalities based on the Ethereum protocol. Notable ones include:
 * WhaleCoin: A social network based on Ethereum.
 * Musicoin: Direct payments for musicians.
 
-## Appendix: Comparison Table
+# Appendix: Comparison Table
 
 | Name             | Dev Fees | ICO Premine |   Dev Premine | Genesis Block | PCS | DCS |
 |------------------|----------|-------------|---------------|---------------|------------------------------------|------------------------------------|
