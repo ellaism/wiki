@@ -1,6 +1,6 @@
 ![Logo](/uploads/logo.png "Logo"){.pagelogo}
 <!-- TITLE: Ellaism Wiki -->
-<!-- SUBTITLE: Ellaism - A stable network with no premine and no dev fees -->
+<!-- SUBTITLE: A stable network with no premine and no dev fees -->
 
 
 > **Hard fork for Ellaism network at block 2,000,000, to enable:**
