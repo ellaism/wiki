@@ -3,4 +3,4 @@
 
 * [A](mining/A)
 * [B](mining/B)
-* [C](C)
+* [C](mining/C)
