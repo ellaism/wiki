@@ -1,5 +1,6 @@
 <!-- TITLE: Principles -->
 <!-- SUBTITLE: A quick summary of Principles -->
+## Principles
 
 (Derived from [Principles of Bitcoin](https://en.bitcoin.it/wiki/Principles_of_Bitcoin))
 
