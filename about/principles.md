@@ -1,6 +1,6 @@
 ![Logo](/uploads/logo.png "Logo"){.pagelogo}
 <!-- TITLE: Principles -->
-<!-- SUBTITLE: A stable network with no premine and no dev fees -->
+<!-- SUBTITLE: Ellaism - A stable network with no premine and no dev fees -->
 
 (Derived from Principles of Bitcoin)[^1]
 
