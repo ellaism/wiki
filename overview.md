@@ -21,8 +21,6 @@ parts are managed by different community members.
 * [Code of Conduct](https://github.com/ellaism/meta/blob/master/conduct.md) (Draft)
 
 
------
-
 
 ## Clients
 
@@ -33,10 +31,7 @@ You might also want to follow the [installation](/install/) or
 * [Geth](https://github.com/ellaism/go-ellaism) (beta)
 
 ## Exchanges
-
-<div class="wiki-loader"></div>
-<div id="wiki-page-content" data-wiki-page="https://wiki.ellaism.org/Supported-Exchanges" data-wiki-fail-message="View the complete list of exchanges on the wiki"></div>
-
+[Exchanges](Exchanges)
 ## Wallets
 
 * [MyEtherWallet](https://myetherwallet.com/)
