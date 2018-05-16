@@ -1,5 +1,4 @@
-![Logo](/uploads/logo.png "Logo"){.pagelogo}
-<!-- TITLE: About -->
+<!-- ![Logo](/uploads/logo.png "Logo"){.pagelogo} TITLE: About -->
 <!-- SUBTITLE: A stable Ethereum-like network with no premine and no dev fees -->
 
 Ellaism is an Ethereum based network  and intends to use exclusively “proof of work” to secure the blockchain.
