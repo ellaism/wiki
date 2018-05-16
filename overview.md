@@ -5,7 +5,7 @@ Ellaism is an Ethereum clone using a blend of ETC and ETH code, and intends to u
 
 Ellaism also has a clearly defined monetary policy, with around 280 million coins in total. See also [Comparison of Different Ethereum Networks](/comparison/).
 
-## Information and Community
+# Information and Community
 
 Ellaism has a welcoming and strong community. Its Twitter, Discord server, forum and other
 parts are managed by different community members.
@@ -22,7 +22,7 @@ parts are managed by different community members.
 
 
 
-## Clients
+# Clients
 
 You might also want to follow the [installation](/install/) or
 [mining](/mining/) guide for this section.
@@ -30,36 +30,36 @@ You might also want to follow the [installation](/install/) or
 * [Parity](https://github.com/ellaism/parity-config) (recommended)
 * [Geth](https://github.com/ellaism/go-ellaism) (beta)
 
-## Exchanges
+# Exchanges
 [Exchanges](Exchanges)
-## Wallets
+# Wallets
 
 * [MyEtherWallet](https://myetherwallet.com/)
 * [Ellaism Web Wallet](https://ellaism.github.io/ellawallet)
 * [Ellaism Chrome Extension Wallet](https://chrome.google.com/webstore/detail/myellawallet/bgfofdgebpphdhddggaggeafenegbjef)
 
-## Hardware Wallets
+# Hardware Wallets
 
 * [Trezor](https://shop.trezor.io/) with [Web Wallet](https://ellaism.github.io/ellawallet)
 
-## Get Involved
+# Get Involved
 
 There is no pre-mine and the coin is totally community-driven. You can find more information about how to get involved in the [ellaism/meta](https://github.com/ellaism/meta) repository and the [Discord](https://discord.gg/gz9tURY) server. You can also [donate](/donate/) to Ellaism developers and community members to help this coin.
 
-## Total Supply
+# Total Supply
 
 The total supply for Ellaism is around 280 million coins.
 
 * [Analysis on the supply model](https://docs.google.com/spreadsheets/d/1v3T6gRupH4C4Zx3B60fOOIqFiilItSpVTszEHjyIPIw/edit#gid=640070299)
 * [Discussions](https://github.com/ellaism/meta/issues/9)
 
-## JSON RPC Endpoint
+# JSON RPC Endpoint
 
 If you are a dapp developer, you can use
 "[https://jsonrpc.ellaism.org](https://jsonrpc.ellaism.org)" as a JSON RPC
 endpoint.
 
-## Technical Information
+# Technical Information
 
 * Average block time: 14 seconds.
 * Expected block time: 10-19 seconds (inclusive).
@@ -84,6 +84,6 @@ genesis block is changed to `0x40000000`, its extra data field is
 `0x0000000000000000000000000000000000000000000000000000000000000000`, and its
 initial nonce is `0x0000000000000040`.
 
-## Logo Assets
+# Logo Assets
 
 Ellaism's logo is created by @BL0ckchain and is released into the public domain. You can find a high resolution asset of the logo [here](https://ellaism.org/images/logo.png).
