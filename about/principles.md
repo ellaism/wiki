@@ -12,6 +12,7 @@ All changes and upgrades to the protocol should strive to maintain and reinforce
 * Pseudonymous: No ID should be required to own, use Ellaism.
 * Fungible: All coins are equal and should be equally spendable.
 * Irreversible Transactions: Confirmed blocks should be set in stone. Blockchain History should be immutable.
-* No Contentious Hard Forks: Never hard fork without consensus from the whole community. Only break the existing consensus when necessary. Many feature upgrades can be carried out without a hard fork, such as improving the performance of the EVM.
+* No Contentious Hard Forks: Never hard fork without consensus from the whole community. Only break the existing consensus when necessary.Many feature upgrades can be carried out without a hard fork, such as improving the performance of the EVM.
+
 ---
 [^1]: https://en.bitcoin.it/wiki/Principles_of_Bitcoin)
