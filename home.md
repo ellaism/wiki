@@ -11,14 +11,14 @@
 [^2]: https://github.com/ellaism/specs/blob/master/specs/2018-0004-byzantium.md
 
 
-- About
-    - Principles
-    - Comparison
-    - Technical informations
-    - Specifications
-    - Monetary supply
-    - Roadmap
-    - Dev Fund
+- [About](about)
+    - [Principles](about/principles)
+    - [Comparison](about/comparison)
+    - [Technical informations](about/technical-informations)
+    - [Specifications](about/specifications)
+    - [Monetary supply](about/monetary-supply)
+    - [Roadmap](about/roadmap)
+    - [Dev Fund](about/dev-fund)
 - Community
     - Links
     - Code of conduct
