@@ -1,6 +1,6 @@
 ![Logo](/uploads/logo.png "Logo"){.pagelogo}
 <!-- TITLE: Roadmap -->
-<!-- SUBTITLE: A stable network with no premine and no dev fees -->
+<!-- SUBTITLE: Ellaism - A stable network with no premine and no dev fees -->
 
 > **Hard fork for Ellaism network at block 2,000,000, to enable:**
 * WebAssembly: pwasm as in Kovan.[^1]
