@@ -1,6 +1,6 @@
 ![Logo](/uploads/logo.png "Logo"){.pagelogo}
 <!-- TITLE: Specifications -->
-<!-- SUBTITLE: A stable network with no premine and no dev fees -->
+<!-- SUBTITLE: Ellaism - A stable network with no premine and no dev fees -->
 
 
 # Dispute Resolution
