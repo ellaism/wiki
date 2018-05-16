@@ -20,6 +20,10 @@ parts are managed by different community members.
 * [Core Twitter](https://twitter.com/EllaismCore)
 * [Code of Conduct](https://github.com/ellaism/meta/blob/master/conduct.md) (Draft)
 
+
+-----
+
+
 ## Clients
 
 You might also want to follow the [installation](/install/) or
