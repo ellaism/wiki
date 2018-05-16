@@ -15,3 +15,6 @@
 |Hard Cap	| 359,398,172.27 |                        |
 
 ***Annual Inflation	0.03	04/23/2036***
+
+[Analysis on the supply model](Analysis on the supply model)
+[Discussions](Analysis on the supply model)
