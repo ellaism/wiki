@@ -15,6 +15,3 @@ The Dev Fund [0xe9C2d958E6234c862b4AfBD75b2fd241E9556303](https://explorer.ellai
 Besides making donations, you can also support the Dev Fund by joining the [Dev Mining Pool](https://pool.ellaism.org) and many other mining pools. You can find more information in [Mining](/mining/).
 
 The [transparency page](https://transparency.ellaism.org/dev) shows all the outgoing transactions from the Dev Fund.
-```bash
-sudo apt-get update
-```
