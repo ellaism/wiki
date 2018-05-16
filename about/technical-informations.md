@@ -1,6 +1,6 @@
 ![Logo](/uploads/logo.png "Logo"){.pagelogo}
 <!-- TITLE: Technical Informations -->
-<!-- SUBTITLE: A stable Ethereum-like network with no premine and no dev fees -->
+<!-- SUBTITLE: A stable network with no premine and no dev fees -->
 
 * Average block time: 14 seconds.
 * Expected block time: 10-19 seconds (inclusive).
