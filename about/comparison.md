@@ -9,7 +9,7 @@ philosophy, and community.
 
 # Comparison Table
 
-| Name                      | Dev Fees | ICO Premine |   Dev Premine | Genesis Block | PCS | DCS |
+| Name                      | Dev Fees | ICO Premine |   Dev Premine | Genesis Block | PCS[^1] | DCS[^2] |
 |---------------------------|----------------|-------------------|----------------------|----------------------|---------|---------|
 | Ethereum                |        0         |  60 million     |    12 million      | 72 million         |>50% |  13% |
 | Ethereum Classic |        0          |  60 million     |    12 million      | 72 million         |  >50% | 13% |
@@ -18,6 +18,8 @@ philosophy, and community.
 | WhaleCoin             |      33%      |           0          |             0             | 0                        |        0 |   33% |
 | Ellaism                    |        0         |           0           |             0            | 0                         |      0 |          0 |
 
+[^1]: (Percentage of genesis block coins in current supply)
+[^2]: (Percentage of mandatory developer fees or premine in current supply)
 # Ethereum
 
 The chain by *Ethereum Foundation* is the oldest and currently the most
