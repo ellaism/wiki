@@ -18,8 +18,8 @@ philosophy, and community.
 | WhaleCoin             |      33%      |           0          |             0             | 0                        |        0 |   33% |
 | Ellaism                    |        0         |           0           |             0            | 0                         |      0 |          0 |
 
-[^1]: (Percentage of genesis block coins in current supply)
-[^2]: (Percentage of mandatory developer fees or premine in current supply)
+[^1]: Percentage of genesis block coins in current supply
+[^2]: Percentage of mandatory developer fees or premine in current supply
 # Ethereum
 
 The chain by *Ethereum Foundation* is the oldest and currently the most
