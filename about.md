@@ -12,10 +12,10 @@ Ellaism also has a clearly defined monetary policy, with around 280 million coin
 See also [Comparison of Different Ethereum Networks](about/comparison)
 
 ---
-    - Principles
-    - Comparison
-    - Technical informations
-    - Specifications
-    - Monetary supply
-    - Roadmap
-    - Dev Fund
+* [Principles](principles)
+* [Comparison](comparison)
+* Technical informations
+* Specifications
+* Monetary supply
+* Roadmap
+* Dev Fund
