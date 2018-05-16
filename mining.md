@@ -1,6 +1,6 @@
 <!-- TITLE: Mining -->
 <!-- SUBTITLE: A quick summary of Mining Index -->
 
-# [A](A)
+# [A](mining/A)
 # [B](B)
 # [C](C)
