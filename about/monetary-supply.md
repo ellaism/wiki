@@ -1,5 +1,5 @@
 ![Logo](/uploads/logo.png "Logo"){.pagelogo}
-
+</br>
 <!-- TITLE: Monetary Supply -->
 <!-- SUBTITLE: A stable Ethereum-like network with no premine and no dev fees -->
 
