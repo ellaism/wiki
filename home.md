@@ -5,4 +5,3 @@
 - [Supported Exchanges](Supported-Exchanges)
 - [Troubleshooting Mining](Troubleshooting-Mining)
 - [Uncategorized Ideas](Uncategorized-Ideas)
-- [Principles](Principles)
