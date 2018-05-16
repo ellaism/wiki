@@ -1,6 +1,6 @@
 ![Logo](/uploads/logo.png "Logo"){.pagelogo}
 <!-- TITLE: Comparison -->
-<!-- SUBTITLE: A stable network with no premine and no dev fees -->
+<!-- SUBTITLE: Ellaism - A stable network with no premine and no dev fees -->
 
 Technically, nearly all of the Ethereum networks have similar capabilities in
 terms of functionality because they share many common parts. Some networks might
