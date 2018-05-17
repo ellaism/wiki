@@ -26,6 +26,7 @@
     - Code of conduct
     - Community Fund
     - Swag Store
+    - Meetings
 - Dapps
     - Testnet
 - Bots
