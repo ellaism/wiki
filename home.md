@@ -38,3 +38,4 @@
 - Wallets
 - Exchanges
 - Media
+- Financial reports
