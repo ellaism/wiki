@@ -1,5 +1,5 @@
 ![Logo](/uploads/logo.png "Logo"){.pagelogo}
-<!-- TITLE: Ellaism Wiki -->
+<!-- TITLE: Ellaism -->
 <!-- SUBTITLE: A stable network with no premine and no dev fees -->
 
 
