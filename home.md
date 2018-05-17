@@ -25,6 +25,7 @@
     - Links
     - Code of conduct
     - Community Fund
+    - Swag Store
 - Dapps
     - Testnet
 - Bots
