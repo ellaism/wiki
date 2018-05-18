@@ -16,7 +16,7 @@ decentralized. It is expected that there will be multiple teams developing on
 the Ellaism blockchain. Ellaism Core is a non-profit team that develops and
 maintains some core infrastructures on the Ellaism blockchain.
 
-You can donate to Ellaism Core by supporting the [**Dev Fund**](about/dev-fund), which you can
+You can donate to Ellaism Core by supporting the [**Dev Fund**](dev-fund), which you can
 find more information on at the [Donate to Ellaism](https://ellaism.org/donations/) page.
 
 # Funding and Community Efforts
