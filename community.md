@@ -11,7 +11,7 @@ parts are managed by different community members.
 * [Community Twitter](https://twitter.com/EllaismProject)
 * [Core Twitter](https://twitter.com/EllaismCore)
 
-- [Code of conduct](code-of-conduct)
-- [Community Fund](communiti-fund)
-- [Swag Store](swag-store)
-- [Meetings](meetings)
+- [Code of conduct](community/code-of-conduct)
+- [Community Fund](community/community-fund)
+- [Swag Store](community/swag-store)
+- [Meetings](community/meetings)
