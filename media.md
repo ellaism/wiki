@@ -1,8 +1,6 @@
 ![Logo](/uploads/logo.png "Logo"){.pagelogo}
 <!-- TITLE: Media -->
 <!-- SUBTITLE: Ellaism - A stable network with no premine and no dev fees -->
-<span style="background:#c8ccd1">
-
 # Logo
 ![Logo](/uploads/logo.png "Logo"){.align-center}
 
