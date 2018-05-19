@@ -68,7 +68,7 @@ And all your MINING tokens will be automatically sent to your wallet.
 
 # Testnet Faucet
 
-Ellaism has a testnet called Shikinseki, and we have a bot that allows you to get some money for testing on this testnet. 
+Ellaism has a [testnet](testnet) called Shikinseki, and we have a bot that allows you to get some money for testing on this testnet. 
 To get some testnet token, go to the Discord channel, in `#bots` channel, run command 
 
 ```
