@@ -34,16 +34,16 @@
 
 ---
 # Gifs
-![Ella Funddrive](/uploads/gifs/001-ella-funddrive-400.gif "Ella Funddrive")
+![001 Ella Funddrive](/uploads/gifs/001-ella-funddrive.gif "001 Ella Funddrive")
+
+---
+![Ella Funddrive Small](/uploads/gifs/001-ella-funddrive-400.gif "Ella Funddrive")
 
 ---
 ![002 Hardfork 256](/uploads/gifs/002-hardfork-256.gif "002 Hardfork 256")
 
 ---
 ![003 Ella Funddrivept 2](/uploads/gifs/003-ella-funddrivept-2.gif "003 Ella Funddrivept 2")
-
----
-![004 Ella Launch Lite](/uploads/gifs/004-ella-launch-lite.mp4 "004 Ella Launch Lite")
 
 ---
 ![005 Its Official](/uploads/gifs/005-its-official.gif "005 Its Official")
@@ -53,10 +53,5 @@
 
 ---
 
----
----
----
----
----
----
+# Video
 
