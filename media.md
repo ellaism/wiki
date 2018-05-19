@@ -6,6 +6,6 @@
 ![Logo](/uploads/logo.png "Logo"){.align-center}
 
 # Badges
-![I Love Ella Alt](/uploads/badges/i-love-ella-alt.png "I Love Ella Alt"){.pagelogo}
-![I Love Ella White](/uploads/badges/i-love-ella-white.png "I Love Ella White"){.pagelogo}
-![I Love Ella](/uploads/badges/i-love-ella.png "I Love Ella"){.pagelogo}
+![I Love Ella Alt](/uploads/badges/i-love-ella-alt.png "I Love Ella Alt")
+![I Love Ella White](/uploads/badges/i-love-ella-white.png "I Love Ella White")
+![I Love Ella](/uploads/badges/i-love-ella.png "I Love Ella")
