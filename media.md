@@ -42,6 +42,8 @@ vector file for logo
 
 ---
 # Gifs
+![Spinning ELLA](/uploads/gifs/spinningELLA.gif "001 Ella Funddrive"): {.align-center}
+---
 ![001 Ella Funddrive](/uploads/gifs/001-ella-funddrive.gif "001 Ella Funddrive"): {.align-center}
 
 ---
