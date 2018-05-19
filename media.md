@@ -40,7 +40,7 @@
 ![Ella Funddrive Small](/uploads/gifs/001-ella-funddrive-400.gif "Ella Funddrive")
 
 ---
-![002 Hardfork 256](/uploads/gifs/002-hardfork-256.gif "002 Hardfork 256")
+![002 Hardfork 256](/uploads/gifs/002-hardfork-256.gif "002 Hardfork")
 
 ---
 ![003 Ella Funddrivept 2](/uploads/gifs/003-ella-funddrivept-2.gif "003 Ella Funddrivept 2")
@@ -48,10 +48,9 @@
 ---
 ![005 Its Official](/uploads/gifs/005-its-official.gif "005 Its Official")
 
----
-![Ella Hardfork](/uploads/gifs/002-hardfork-256.gif "Ella Hardfork")
 
 ---
+![006 Ella Noico Nofees Lite](/uploads/gifs/006-ella-noico-nofees-lite.gif "006 Ella Noico Nofees Lite")
 
 # Video
 
