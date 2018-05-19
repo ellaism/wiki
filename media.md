@@ -26,3 +26,10 @@
 
 ---
 
+![Ella Enthusiast Black](/uploads/badges/ella-enthusiast-black.png "Ella Enthusiast Black"){:height="25%" width="25%" .align-center}  
+
+---
+
+![Ella Enthusiast White](/uploads/badges/ella-enthusiast-white.png "Ella Enthusiast White"){:height="25%" width="25%" .align-center}  
+
+---
