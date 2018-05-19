@@ -11,7 +11,7 @@ philosophy, and community.
 # Comparison Table
 
 | Name                      | Dev Fees | ICO Premine |   Dev Premine | Genesis Block | PCS[^1] | DCS[^2] |
-|---------------------------|----------------|-------------------|----------------------|----------------------|---------|---------|
+|---------------------------|----------------:|-------------------:|----------------------:|----------------------:|---------:|---------:|
 | Ethereum                |        0         |  60 million     |    12 million      | 72 million         |>50% |  13% |
 | Ethereum Classic |        0          |  60 million     |    12 million      | 72 million         |  >50% | 13% |
 | Expanse                 |        0          |           0           | 11.11 million   | 11.11 million    | >50% |>50% |
