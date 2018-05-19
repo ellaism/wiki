@@ -21,12 +21,11 @@
     - [Monetary supply](about/monetary-supply)
     - [Roadmap](about/roadmap)
     - [Dev Fund](about/dev-fund)
-- Community
-    - Links
-    - Code of conduct
-    - Community Fund
-    - Swag Store
-    - Meetings
+- [Community](community)
+    - [Code of conduct](code-of-conduct)
+    - [Community Fund](communiti-fund)
+    - [Swag Store](swag-store)
+    - [Meetings](meetings)
 - Dapps
     - Testnet
 - Bots
