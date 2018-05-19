@@ -2,6 +2,7 @@
 <!-- TITLE: Supported Exchanges -->
 <!-- SUBTITLE: A stable network with no premine and no dev fees -->
 
+To protect your money, it is recommended that you enable two-factor authentication on the exchange and use a hardware wallet or a cold wallet to store it if you plan to hold long-term.
 
 We have five exchanges currently supporting Ellaism trading:
 
