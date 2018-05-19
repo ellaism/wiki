@@ -2,6 +2,9 @@
 <!-- TITLE: Wallets -->
 <!-- SUBTITLE: Ellaism - A stable network with no premine and no dev fees -->
 
+* [Ellaism Shell](https://github.com/ellaism/shell/releases)  
+Ellaism-branded desktop wallet and dapp browser. 
+
 * [MyCrypto](https://mycrypto.com)
 Choose ELLA from the top-right dropdown menu.  
 
@@ -13,6 +16,3 @@ Easiest wallet option besides MyEtherWallet. Hosted directly on Github. Supports
 
 * [Ellaism Chrome Extension Wallet](https://chrome.google.com/webstore/detail/myellawallet/bgfofdgebpphdhddggaggeafenegbjef)  
 Runs in a sandbox in your Chrome browser. Functionality is similar to the web wallet, but technically safer.  
-
-* [Ellaism Shell](https://github.com/ellaism/shell/releases)  
-Ellaism Shell is an Ellaism-branded wallet and dapp browser, based on Parity UI. In background, it will automatically download the appropriate version of Parity and connect you to the Ellaism network.
