@@ -34,23 +34,23 @@
 
 ---
 # Gifs
-![001 Ella Funddrive](/uploads/gifs/001-ella-funddrive.gif "001 Ella Funddrive")
+![001 Ella Funddrive](/uploads/gifs/001-ella-funddrive.gif "001 Ella Funddrive"): {.align-center}
 
 ---
-![Ella Funddrive Small](/uploads/gifs/001-ella-funddrive-400.gif "Ella Funddrive")
+![Ella Funddrive Small](/uploads/gifs/001-ella-funddrive-400.gif "Ella Funddrive"): {.align-center}
 
 ---
-![002 Hardfork 256](/uploads/gifs/002-hardfork-256.gif "002 Hardfork")
+![002 Hardfork 256](/uploads/gifs/002-hardfork-256.gif "002 Hardfork"): {.align-center}
 
 ---
-![003 Ella Funddrivept 2](/uploads/gifs/003-ella-funddrivept-2.gif "003 Ella Funddrivept 2")
+![003 Ella Funddrivept 2](/uploads/gifs/003-ella-funddrivept-2.gif "003 Ella Funddrivept 2"): {.align-center}
 
 ---
-![005 Its Official](/uploads/gifs/005-its-official.gif "005 Its Official")
-
+![005 Its Official](/uploads/gifs/005-its-official.gif "005 Its Official"): {.align-center}
 
 ---
-![006 Ella Noico Nofees Lite](/uploads/gifs/006-ella-noico-nofees-lite.gif "006 Ella Noico Nofees Lite")
+![006 Ella Noico Nofees Lite](/uploads/gifs/006-ella-noico-nofees-lite.gif "006 Ella Noico Nofees Lite"): {.align-center}
+
 
 # Video
 
