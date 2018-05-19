@@ -3,7 +3,7 @@
 <!-- SUBTITLE: Ellaism - A stable network with no premine and no dev fees -->
 
 (Derived from Principles of Bitcoin)[^1]
-<div id="mydiv" background:green">
+<div id="mydiv" "background:green">
 All changes and upgrades to the protocol should strive to maintain and reinforce these Principles of Ellaism
 
 * Monetary Policy: 280 million coins.
