@@ -50,3 +50,4 @@ Contact core@ellaism.org or ping @ellaismer on [Discord](https://discord.ellaism
 * [SoloPool](https://ella.solopool.org/)
 * [Comining](http://comining.io/)
 * [DigiPools](http://ella.digipools.org/)
+* [Nevermining](http://ella.nevermining.org)
