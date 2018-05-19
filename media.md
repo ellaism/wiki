@@ -42,7 +42,7 @@ vector file for logo
 
 ---
 # Gifs
-![Spinning ELLA](/uploads/gifs/spinningella.gif "Spinning ELLA"): {.align-center}
+![Spinning ELLA](/uploads/gifs/spinningella.gif "Spinning ELLA"){:height=200 width=200 .align-center}
 
 
 ---
