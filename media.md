@@ -63,4 +63,4 @@
 [video](/uploads/video/005-its-official.mp4 "005 Its Official"){.video}
 
 ---
-
+[video](/uploads/video/006-ella-noico-nofees.mp4 "006 Ella Noico Nofees"){.video}
