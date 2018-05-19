@@ -1,7 +1,7 @@
 ![Logo](/uploads/logo.png "Logo"){.pagelogo}
 <!-- TITLE: Media -->
 <!-- SUBTITLE: Ellaism - A stable network with no premine and no dev fees -->
-<!-- background: #6f6f6f -->
+
 # Logo
 ![Logo](/uploads/logo.png "Logo"){.align-center}
 
@@ -35,7 +35,6 @@
 ---
 # Video
 ![Ella Funddrive](/uploads/gifs/001-ella-funddrive-400.gif "Ella Funddrive")[Ella Hardfork](/uploads/gifs/002-hardfork-256.gif "Ella Hardfork")
----
 
 ---
 
