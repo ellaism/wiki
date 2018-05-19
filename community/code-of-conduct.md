@@ -1,6 +1,8 @@
 ![Logo](/uploads/logo.png "Logo"){.pagelogo}
 <!-- TITLE: Code Of Conduct -->
 <!-- SUBTITLE: Ellaism - A stable network with no premine and no dev fees -->
+<!-- background: #6f6f6f -->
+
 
 
 *This is a draft version of The Code of Conduct for the Ellaism Community. The version needs to be finalized by Ellaism's Code of Conduct Working Group, which you can participate in our [Discord server](https://discord.gg/gz9tURY)*.
@@ -8,7 +10,6 @@
 # Our Pledge
 
 In the interest of fostering an open and welcoming environment, we as Ellaism contributors pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
-<!-- background: #6f6f6f -->
 # Our Standards
 
 Examples of behavior that contributes to creating a positive environment include:
