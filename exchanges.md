@@ -4,7 +4,7 @@
 
 To protect your money, it is recommended that you enable two-factor authentication on the exchange and use a hardware wallet or a cold wallet to store it if you plan to hold long-term.
 
-# Exchanges:
+# List:
 
 * [Cryptopia](https://www.cryptopia.co.nz/Exchange?market=ELLA_BTC)
 * [Stocks Exchange](https://stocks.exchange/trade/ELLA/BTC)
