@@ -6,8 +6,6 @@
 ![Logo](/uploads/logo.png "Logo"){:height=200 width=200 .align-center}
 original rastor version of Ellaism logo  
 
-<img src="/uploads/logo.png " style="border: 1px solid black" />
-
 ---
 
 ![Ella Logo](/uploads/ella-logo.svg "Ella Logo"){:height=200 width=200 .align-center}
@@ -44,29 +42,29 @@ vector file for logo
 
 ---
 # Gifs
-![Spinning ELLA](/uploads/gifs/spinningella.gif "Spinning ELLA"){:height=200 width=200 .align-center}
+![Spinning ELLA](/uploads/gifs/spinningella.gif "Spinning ELLA"){:height=360 width=360 .align-center}
 
 
 ---
-![001 Ella Funddrive](/uploads/gifs/001-ella-funddrive.gif "001 Ella Funddrive"): {:height="25%" width="25%" .align-center}
+![001 Ella Funddrive](/uploads/gifs/001-ella-funddrive.gif "001 Ella Funddrive"){:height=360 width=360 .align-center}
 
 ---
-![Ella Funddrive Small](/uploads/gifs/001-ella-funddrive-400.gif "Ella Funddrive"): {.align-center}
+![Ella Funddrive Small](/uploads/gifs/001-ella-funddrive-400.gif "Ella Funddrive"){:height=360 width=360 .align-center}
 
 ---
-![002 Hardfork 256](/uploads/gifs/002-hardfork-256.gif "002 Hardfork"): {.align-center}
+![002 Hardfork 256](/uploads/gifs/002-hardfork-256.gif "002 Hardfork"){:height=360 width=360 .align-center}
 
 ---
-![003 Ella Funddrivept 2](/uploads/gifs/003-ella-funddrivept-2.gif "003 Ella Funddrivept 2"): {.align-center}
+![003 Ella Funddrivept 2](/uploads/gifs/003-ella-funddrivept-2.gif "003 Ella Funddrivept 2"){:height=360 width=360 .align-center}
 
 ---
-![005 Its Official](/uploads/gifs/005-its-official.gif "005 Its Official"): {.align-center}
+![005 Its Official](/uploads/gifs/005-its-official.gif "005 Its Official"){:height=360 width=360 .align-center}
 
 ---
-![006 Ella Noico Nofees Lite](/uploads/gifs/006-ella-noico-nofees-lite.gif "006 Ella Noico Nofees Lite"): {.align-center}
+![006 Ella Noico Nofees Lite](/uploads/gifs/006-ella-noico-nofees-lite.gif "006 Ella Noico Nofees Lite"){:height=360 width=360 .align-center}
 
 ---
-![006 Ella Noico Nofees](/uploads/gifs/006-ella-noico-nofees.gif "006 Ella Noico Nofees Lite"): {.align-center}
+![006 Ella Noico Nofees](/uploads/gifs/006-ella-noico-nofees.gif "006 Ella Noico Nofees Lite"){:height=360 width=360 .align-center}
 
 
 
