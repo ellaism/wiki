@@ -57,3 +57,8 @@
 
 # Video
 
+![004 Ella Launch](/uploads/video/004-ella-launch.mp4 "004 Ella Launch") {.align-center}
+
+---
+[video](/uploads/video/004-ella-launch.mp4){.video}
+
