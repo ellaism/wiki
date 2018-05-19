@@ -4,3 +4,5 @@
 
 # Logo
 ![Logo](/uploads/logo.png "Logo"){.align-center}
+
+# Badges
