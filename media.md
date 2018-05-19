@@ -3,7 +3,7 @@
 <!-- SUBTITLE: Ellaism - A stable network with no premine and no dev fees -->
 
 # Logo
-![Logo](/uploads/logo.png "Logo"){:height=200 width=200 .align-center background_color=red}
+![Logo](/uploads/logo.png "Logo"){:height=200 width=200 .align-center .background_color=red}
 original rastor version of Ellaism logo
 
 ---
