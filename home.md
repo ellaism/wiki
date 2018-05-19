@@ -28,7 +28,7 @@
     - [Meetings](community/meetings)
 - Dapps
 - [Testnet](testnet)
-- Bots
+- [Bots](bots)
 - Clients
     - Parity
     - Geth
