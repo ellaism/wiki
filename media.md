@@ -13,7 +13,7 @@ vector file for logo
 
 ---
 
-<img src="uploads/logo.png" height="360" width="360"/>
+<img src="uploads/logo.png" background="red"/>
 
 
 # Badges
