@@ -33,4 +33,4 @@
 
 ---
 # Video
-![Ella Funddrive](/uploads/gifs/001-ella-funddrive-400.gif "Ella Funddrive")[Ella Hardfork](/uploads/gifs/002-hardfork-256.gif "Ella Hardfork")
+![Ella Funddrive](/uploads/gifs/001-ella-funddrive-400.gif "Ella Funddrive") ![Ella Hardfork](/uploads/gifs/002-hardfork-256.gif "Ella Hardfork")
