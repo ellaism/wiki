@@ -14,4 +14,12 @@
 
 ---
 
-![I Love Ella](/uploads/badges/i-love-ella.png "I Love Ella"){:height="50%" width="50%" .align-center}
+![I Love Ella](/uploads/badges/i-love-ella.png "I Love Ella"){:height="50%" width="50%" .align-center}  
+
+---
+
+![Ella Supporter Black](/uploads/badges/ella-supporter-black.png "Ella Supporter Black"){:height="50%" width="50%" .align-center}  
+
+---
+
+![Ella Supporter White](/uploads/badges/ella-supporter-white.png "Ella Supporter White"){:height="50%" width="50%" .align-center}
