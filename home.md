@@ -36,5 +36,5 @@
     - [Pools](mining/pools)
 - [Wallets](wallets)
 - [Exchanges](exchanges)
-- Media
+- [Media](media)
 - [Financial reports](financial-reports)
