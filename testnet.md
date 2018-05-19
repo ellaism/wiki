@@ -8,7 +8,8 @@ Ellaism has a Proof of Authority (PoA) testnet called "Shikinseki". To connect t
 parity --chain shikinseki.json
 ```
 
-We choose PoA consensus algorithm because it provides a stable experience. It is known that PoW testnets can be unstable due to lack of nodes. And please note that the testnet might be restarted at any time with all states cleared. Don't use it to store anything important.
+We choose PoA consensus algorithm because it provides a stable experience. It is known that PoW testnets can be unstable due to lack of nodes.
+And please note that the testnet might be restarted at any time with all states cleared. Don't use it to store anything important.
 
 Additional facilities you can use on the testnet:
 
