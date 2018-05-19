@@ -1,7 +1,6 @@
 ![Logo](/uploads/logo.png "Logo"){.pagelogo}
 <!-- TITLE: Media -->
 <!-- SUBTITLE: Ellaism - A stable network with no premine and no dev fees -->
-<div id="mydiv" style="background:#dddddd"> </div>
 
 # Logo
 ![Logo](/uploads/logo.png "Logo"){:height=200 width=200 .align-center}
@@ -54,11 +53,11 @@ vector file for logo
 ![005 Its Official](/uploads/gifs/005-its-official.gif "005 Its Official"): {.align-center}
 
 ---
-![006 Ella Noico Nofees Lite](/uploads/gifs/006-ella-noico-nofees-lite.gif "006 Ella Noico Nofees Lite"): {:height=360 width=360 .align-center}
+![006 Ella Noico Nofees Lite](/uploads/gifs/006-ella-noico-nofees-lite.gif "006 Ella Noico Nofees Lite") {:height=360 width=360 .align-center}
 SMALL
 
 ---
-![006 Ella Noico Nofees](/uploads/gifs/006-ella-noico-nofees.gif "006 Ella Noico Nofees Lite"): {:height=360 width=360 .align-center}
+![006 Ella Noico Nofees](/uploads/gifs/006-ella-noico-nofees.gif "006 Ella Noico Nofees Lite") {:height=360 width=360 .align-center}
 LARGE
 
 
