@@ -10,5 +10,5 @@ We choose PoA consensus algorithm because it provides a stable experience. It is
 
 Additional facilities you can use on the testnet:
 
-    Explorer: https://explorer.testnet.ellaism.org
-    JSONRPC Endpoint: https://jsonrpc.testnet.ellaism.org
+Explorer: https://explorer.testnet.ellaism.org
+JSONRPC Endpoint: https://jsonrpc.testnet.ellaism.org
