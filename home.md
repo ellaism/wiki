@@ -22,10 +22,10 @@
     - [Roadmap](about/roadmap)
     - [Dev Fund](about/dev-fund)
 - [Community](community)
-    - [Code of conduct](code-of-conduct)
-    - [Community Fund](communiti-fund)
-    - [Swag Store](swag-store)
-    - [Meetings](meetings)
+    - [Code of conduct](community/code-of-conduct)
+    - [Community Fund](community/communiti-fund)
+    - [Swag Store](community/swag-store)
+    - [Meetings](community/meetings)
 - Dapps
     - Testnet
 - Bots
