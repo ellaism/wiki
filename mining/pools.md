@@ -1,4 +1,5 @@
-<!-- TITLE: Pool List -->
+<!-- TITLE: Pools -->
+<!-- SUBTITLE: Ellaism - A stable network with no premine and no dev fees -->
 
 
 **Pools that Donate to Dev Fund**
