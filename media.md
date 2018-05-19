@@ -35,5 +35,6 @@
 # Video
 
 [video](https://cdn.discordapp.com/attachments/432217125277532181/443365408796573696/005_Its_Official.mp4){.video}
+[Its Official](/uploads/video/its-official.mp4 "Its Official")
 
 
