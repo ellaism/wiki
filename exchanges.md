@@ -1,4 +1,3 @@
-![Logo](/uploads/logo.png "Logo"){.pagelogo}
 <!-- TITLE: Supported Exchanges -->
 <!-- SUBTITLE: A stable network with no premine and no dev fees -->
 
