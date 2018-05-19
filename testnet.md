@@ -12,3 +12,4 @@ Additional facilities you can use on the testnet:
 
 Explorer: https://explorer.testnet.ellaism.org
 JSONRPC Endpoint: https://jsonrpc.testnet.ellaism.org
+[Shikinseki Faucet](bots)
