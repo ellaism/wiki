@@ -31,7 +31,6 @@
 - [Bots](bots)
 - Clients
     - Parity
-    - Geth
 - Mining
     - Solo mining
     - [Pools](mining/pools)
