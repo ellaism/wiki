@@ -7,7 +7,7 @@
 original rastor version of Ellaism logo
 
 ---
-![Ella Logo](/uploads/ella-logo.svg "Ella Logo"){:height=200 width=200 .align-center background=black}
+![Ella Logo](/uploads/ella-logo.svg "Ella Logo"){:height=200 width=200 .align-center background: black}
 vector file for logo
 # Badges
 ![I Love Ella Alt](/uploads/badges/i-love-ella-alt.png "I Love Ella Alt"){:height="25%" width="25%" .align-center}
