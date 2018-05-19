@@ -34,7 +34,7 @@
     - Geth
 - Mining
     - Solo mining
-    - Pools
+    - [Pools](mining/pools)
 - [Wallets](wallets)
 - [Exchanges](exchanges)
 - Media
