@@ -4,7 +4,10 @@
 
 # Logo
 ![Logo](/uploads/logo.png "Logo"){.align-center}
-
+The original Ellaism Logo File.
+---
+![Ella Logo](/uploads/ella-logo.svg "Ella Logo"){.align-center}
+Vector File for logo.
 # Badges
 ![I Love Ella Alt](/uploads/badges/i-love-ella-alt.png "I Love Ella Alt"){:height="25%" width="25%" .align-center}
   	
