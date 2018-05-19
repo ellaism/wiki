@@ -4,12 +4,12 @@
 
 # Logo
 ![Logo](/uploads/logo.png "Logo"){:height=360 width=360 .align-center}
-**original rastor version of Ellaism logo**
+**ORIGINAL RASTOR LOGO**
 
 ---
 
 ![Ella Logo](/uploads/ella-logo.svg "Ella Logo"){:height=360 width=360 .align-center}
-**vector file for logo**
+**VECTOR LOGO**
 
 ---
 
