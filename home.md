@@ -26,7 +26,7 @@
     - [Community Fund](community/community-fund)
     - [Swag Store](community/swag-store)
     - [Meetings](community/meetings)
-- Dapps
+- [Dapps](dapps)
 - [Testnet](testnet)
 - [Bots](bots)
 - Clients
