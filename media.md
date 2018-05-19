@@ -41,7 +41,7 @@ vector file for logo
 ![Ella Enthusiast White](/uploads/badges/ella-enthusiast-white.png "Ella Enthusiast White"){:height="25%" width="25%" .align-center}  
 
 ---
-# Gifs
+# Video and Motion Graphics
 ![Spinning ELLA](/uploads/gifs/spinningella.gif "Spinning ELLA"){:height=360 width=360 .align-center}
 
 ---
@@ -57,23 +57,17 @@ vector file for logo
 ![003 Ella Funddrivept 2](/uploads/gifs/003-ella-funddrivept-2.gif "003 Ella Funddrivept 2"){:height=360 width=360 .align-center}
 
 ---
+[video](/uploads/video/004-ella-launch.mp4){.video} {.align-center}
+
+---
 ![005 Its Official](/uploads/gifs/005-its-official.gif "005 Its Official"){:height=360 width=360 .align-center}
 [video](/uploads/video/005-its-official.mp4 "005 Its Official"){.video} {.align-center}
 
 ---
-![006 Ella Noico Nofees Lite](/uploads/gifs/006-ella-noico-nofees-lite.gif "006 Ella Noico Nofees Lite"){:height=360 width=360 .align-center}
-
----
-![006 Ella Noico Nofees](/uploads/gifs/006-ella-noico-nofees.gif "006 Ella Noico Nofees Lite"){:height=360 width=360 .align-center}
-
-
-
-# Video
-
-[video](/uploads/video/004-ella-launch.mp4){.video} {.align-center}
-
----
-[video](/uploads/video/005-its-official.mp4 "005 Its Official"){.video} {.align-center}
-
----
 [video](/uploads/video/006-ella-noico-nofees.mp4 "006 Ella Noico Nofees"){.video} {.align-center}
+![006 Ella Noico Nofees](/uploads/gifs/006-ella-noico-nofees.gif "006 Ella Noico Nofees Lite"){:height=360 width=360 .align-center}
+large
+![006 Ella Noico Nofees Lite](/uploads/gifs/006-ella-noico-nofees-lite.gif "006 Ella Noico Nofees Lite"){:height=360 width=360 .align-center}
+small
+
+
