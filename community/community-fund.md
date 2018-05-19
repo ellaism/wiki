@@ -1,5 +1,5 @@
 ![Logo](/uploads/logo.png "Logo"){.pagelogo}
-<!-- TITLE: Communiti Fund -->
+<!-- TITLE: Community Fund -->
 <!-- SUBTITLE: Ellaism - A stable network with no premine and no dev fees -->
 
 To make the Ellaism development process more transparent and to decentralize trust, we are making both Dev Fund and Community Fund to be multisig wallets. Those wallets accept donations just like normal, but to send funds out, it requires multiple people to sign the transactions. The current signers are listed as below.
