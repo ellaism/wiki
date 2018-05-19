@@ -2,7 +2,7 @@
 <!-- TITLE: Testnet -->
 <!-- SUBTITLE: Ellaism - A stable network with no premine and no dev fees -->
 
-Ellaism has a Proof of Authority (PoA) testnet called "Shikinseki". To connect to the testnet, download this file and run:
+Ellaism has a Proof of Authority (PoA) testnet called "Shikinseki". To connect to the testnet, download [this file](https://github.com/ellaism/parity-config/blob/master/shikinseki.json) and run:
 
 ```parity --chain shikinseki.json```
 
