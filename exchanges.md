@@ -1,7 +1,6 @@
 <!-- TITLE: Supported Exchanges -->
 <!-- SUBTITLE: A stable network with no premine and no dev fees -->
 
-### Exchanges list
 
 * [Cryptopia](https://www.cryptopia.co.nz/Exchange?market=ELLA_BTC)
 * [Stocks Exchange](https://stocks.exchange/trade/ELLA/BTC)
