@@ -1,8 +1,6 @@
 ![Logo](/uploads/logo.png "Logo"){.pagelogo}
 <!-- TITLE: Code Of Conduct -->
 <!-- SUBTITLE: Ellaism - A stable network with no premine and no dev fees -->
-<!-- background: #ffffff -->
-
 
 
 *This is a draft version of The Code of Conduct for the Ellaism Community. The version needs to be finalized by Ellaism's Code of Conduct Working Group, which you can participate in our [Discord server](https://discord.gg/gz9tURY)*.
