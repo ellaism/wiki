@@ -35,4 +35,6 @@
 # Video
 
 [video](https://cdn.discordapp.com/attachments/432217125277532181/443363187878789150/its_official.mp4){.video}
+[video](https://cdn.discordapp.com/attachments/432217125277532181/443365408796573696/005_Its_Official.mp4){.video}
+
 
