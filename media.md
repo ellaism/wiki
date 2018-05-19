@@ -34,3 +34,7 @@
 ---
 # Video
 ![Ella Funddrive](/uploads/gifs/001-ella-funddrive-400.gif "001 Ella Funddrive 400")
+
+---
+
+![NoICO](/uploads/gifs/006-ella-noico-nofees.gif "006 Ella Noico Nofees")
