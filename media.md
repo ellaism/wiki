@@ -6,7 +6,7 @@
 ![Logo](/uploads/logo.png "Logo"){.align-center}
 
 # Badges
-![I Love Ella Alt](/uploads/badges/i-love-ella-alt.png "I Love Ella Alt"){:height="50%" width="50%" .align-center}  
+![I Love Ella Alt](/uploads/badges/i-love-ella-alt.png "I Love Ella Alt"){:height="25%" width="25%" .align-center}  
   	
 ---
 
