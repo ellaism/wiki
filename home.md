@@ -36,6 +36,6 @@
     - Solo mining
     - Pools
 - [Wallets](wallets)
-- Exchanges
+- [Exchanges](exchanges)
 - Media
 - Financial reports
