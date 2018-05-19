@@ -7,7 +7,7 @@
 The Ellaism Dev Pool is used to keep the Dev Fund going, and other pools also donate to Dev Fund.
 
 
-|Pool name| Donation (% from fee) | Mining fee|
+|Pool | Donation (% from fee) | Mining fee|
 |---------------|---------------------------------|----------------|
 |[Dev Pool](https://pool.ellaism.org)  | 100 | 1 |
 |[Pool Sexy](http://ella.pool.sexy) | 2.5% | 0.25 |
