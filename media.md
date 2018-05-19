@@ -3,8 +3,10 @@
 <!-- SUBTITLE: Ellaism - A stable network with no premine and no dev fees -->
 
 # Logo
+<div id="mydiv" style="background:#dddddd">
 ![Logo](/uploads/logo.png "Logo"){:height=200 width=200 .align-center}
 original rastor version of Ellaism logo
+</div>
 
 ---
 ![Ella Logo](/uploads/ella-logo.svg "Ella Logo"){:height=200 width=200 .align-center}
