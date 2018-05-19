@@ -17,6 +17,10 @@ The Ellaism Dev Pool is used to keep the Dev Fund going, and other pools also do
 </ul>
 </div>
 
+|Pool name| Donation (% from fee) | Mining fee|
+|---------------|---------------------------------|----------------|
+|Dev Pool  | 100                                  | 1                |
+
 **Pools using Ellaism's version of [open-ethereum-pool](https://github.com/ellaism/open-ethereum-pool)**
 
 Ellaism maintains its own fork of [open-ethereum-pool](https://github.com/ellaism/open-ethereum-pool) with improvements of memory usage, network latency and PPLNS support. Below is the list of pools using this fork.
