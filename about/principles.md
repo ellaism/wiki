@@ -4,7 +4,7 @@
 
 (Derived from Principles of Bitcoin)[^1]
 
-All changes and upgrades to the protocol should strive to maintain and reinforce these Principles of Ellaism{background-color:#000;color: red}
+All changes and upgrades to the protocol should strive to maintain and reinforce these Principles of Ellaism{background-color:#6f6f6f;color: red}
 
 * Monetary Policy: 280 million coins.
 * No censorship: Nobody should be able to prevent valid txs from being confirmed.
