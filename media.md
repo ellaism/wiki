@@ -22,4 +22,7 @@
 
 ---
 
-![Ella Supporter White](/uploads/badges/ella-supporter-white.png "Ella Supporter White"){:height="25%" width="25%" .align-center}
+![Ella Supporter White](/uploads/badges/ella-supporter-white.png "Ella Supporter White"){:height="25%" width="25%" .align-center}  
+
+---
+
