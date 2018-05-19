@@ -32,7 +32,8 @@ Ellaism maintains its own fork of [open-ethereum-pool](https://github.com/ellais
 
 **All Pools**
 
-Other pools may also have advantages in their setup or shares of mining fees. Contact core@ellaism.org or ping @ellaismer on [Discord](https://discord.ellaism.org/) if you want your pool added to this list.
+Other pools may also have advantages in their setup or shares of mining fees.
+Contact core@ellaism.org or ping @ellaismer on [Discord](https://discord.ellaism.org/) if you want your pool added to this list.
 
 <div id="all-pools">
 <ul>
