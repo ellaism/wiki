@@ -3,7 +3,7 @@
 <!-- SUBTITLE: Ellaism - A stable network with no premine and no dev fees -->
 
 (Derived from Principles of Bitcoin)[^1]
-
+<div id="mydiv" style="width:200px;background:green">
 All changes and upgrades to the protocol should strive to maintain and reinforce these Principles of Ellaism
 
 * Monetary Policy: 280 million coins.
@@ -15,6 +15,6 @@ All changes and upgrades to the protocol should strive to maintain and reinforce
 * Irreversible Transactions: Confirmed blocks should be set in stone. Blockchain History should be immutable.
 * No Contentious Hard Forks: Never hard fork without consensus from the whole community. Only break the existing consensus when necessary.
 Many feature upgrades can be carried out without a hard fork, such as improving the performance of the EVM.
-
+</div>
 ---
 [^1]: https://en.bitcoin.it/wiki/Principles_of_Bitcoin)
