@@ -32,6 +32,5 @@
 ![Ella Enthusiast White](/uploads/badges/ella-enthusiast-white.png "Ella Enthusiast White"){:height="25%" width="25%" .align-center}  
 
 ---
+# Gifs
 # Video
-[001 Ella Funddrive 400](/uploads/gifs/001-ella-funddrive-400.gif "001 Ella Funddrive 400")
-
