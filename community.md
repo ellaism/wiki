@@ -10,3 +10,8 @@ parts are managed by different community members.
 * [Reddit](https://www.reddit.com/r/ellaism/)
 * [Community Twitter](https://twitter.com/EllaismProject)
 * [Core Twitter](https://twitter.com/EllaismCore)
+
+- [Code of conduct](code-of-conduct)
+- [Community Fund](communiti-fund)
+- [Swag Store](swag-store)
+- [Meetings](meetings)
