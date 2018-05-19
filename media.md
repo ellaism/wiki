@@ -13,6 +13,9 @@ vector file for logo
 
 ---
 
+<img src="uploads/logo.png" height="360" width="360"/>
+
+
 # Badges
 ![I Love Ella Alt](/uploads/badges/i-love-ella-alt.png "I Love Ella Alt"){:height="25%" width="25%" .align-center}
   	
