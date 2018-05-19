@@ -58,7 +58,7 @@ vector file for logo
 SMALL
 
 ---
-![006 Ella Noico Nofees](/uploads/gifs/006-ella-noico-nofees.gif "006 Ella Noico Nofees Lite"): { .align-center}
+![006 Ella Noico Nofees](/uploads/gifs/006-ella-noico-nofees.gif "006 Ella Noico Nofees Lite"):{:height=200 width=200 .align-center}
 
 LARGE
 
