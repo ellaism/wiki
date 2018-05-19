@@ -33,7 +33,7 @@
 ![Ella Enthusiast White](/uploads/badges/ella-enthusiast-white.png "Ella Enthusiast White"){:height="25%" width="25%" .align-center}  
 
 ---
-# Video
+# Gifs
 ![Ella Funddrive](/uploads/gifs/001-ella-funddrive-400.gif "Ella Funddrive")
 
 ---
@@ -46,7 +46,7 @@
 ![004 Ella Launch Lite](/uploads/gifs/004-ella-launch-lite.mp4 "004 Ella Launch Lite")
 
 ---
-[005 Its Official](/uploads/gifs/005-its-official.gif "005 Its Official")
+![005 Its Official](/uploads/gifs/005-its-official.gif "005 Its Official")
 
 ---
 ![Ella Hardfork](/uploads/gifs/002-hardfork-256.gif "Ella Hardfork")
