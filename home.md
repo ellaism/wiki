@@ -27,7 +27,7 @@
     - [Swag Store](community/swag-store)
     - [Meetings](community/meetings)
 - Dapps
-    - Testnet
+- [Testnet](testnet)
 - Bots
 - Clients
     - Parity
