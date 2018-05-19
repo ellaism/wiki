@@ -4,17 +4,12 @@
 
 # Logo
 ![Logo](/uploads/logo.png "Logo"){:height=360 width=360 .align-center}
-original rastor version of Ellaism logo  
-
+**original rastor version of Ellaism logo**
 ---
 
 ![Ella Logo](/uploads/ella-logo.svg "Ella Logo"){:height=360 width=360 .align-center}
-vector file for logo  
-
+**vector file for logo**
 ---
-
-<img src="uploads/logo.png" background="red"/>
-
 
 # Badges
 ![I Love Ella Alt](/uploads/badges/i-love-ella-alt.png "I Love Ella Alt"){:height="25%" width="25%" .align-center}
@@ -71,7 +66,9 @@ vector file for logo
 [video](/uploads/video/006-ella-noico-nofees.mp4 "006 Ella Noico Nofees"){.video} {.align-center}
 
 ![006 Ella Noico Nofees](/uploads/gifs/006-ella-noico-nofees.gif "006 Ella Noico Nofees Lite"){:height=360 width=360 .align-center}
-LARGE
+
+**LARGE**
 ![006 Ella Noico Nofees Lite](/uploads/gifs/006-ella-noico-nofees-lite.gif "006 Ella Noico Nofees Lite"){:height=360 width=360 .align-center}
-SMALL
+
+**SMALL**
 
