@@ -6,6 +6,8 @@
 ![Logo](/uploads/logo.png "Logo"){:height=200 width=200 .align-center}
 original rastor version of Ellaism logo  
 
+<img src="/uploads/logo.png " style="border: 1px solid black" />
+
 ---
 
 ![Ella Logo](/uploads/ella-logo.svg "Ella Logo"){:height=200 width=200 .align-center}
