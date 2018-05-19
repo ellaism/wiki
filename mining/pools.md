@@ -16,9 +16,9 @@
 
 **Pools using Ellaism's version of [open-ethereum-pool](https://github.com/ellaism/open-ethereum-pool)**
 
-Ellaism maintains its own fork of [open-ethereum-pool](https://github.com/ellaism/open-ethereum-pool) with improvements of memory usage, network latency and PPLNS support. Below is the list of pools using this fork.
+Ellaism maintains its own fork of [open-ethereum-pool](https://github.com/ellaism/open-ethereum-pool) with improvements of memory usage, network latency and PPLNS support.
+Below is the list of pools using this fork.
 
-<div id="oe-pools" markdown="1">
 
 * [Dev Mining Pool](https://pool.ellaism.org/)
 * [Cryptobitpool](http://ella.cryptobitpool.eu/)
@@ -26,34 +26,29 @@ Ellaism maintains its own fork of [open-ethereum-pool](https://github.com/ellais
 * [Nonlocal](https://pool.nonlocal.ca)
 * [poolHUB](http://ella.poolhub.org/)
 
-</div>
 
 **All Pools**
 
 Other pools may also have advantages in their setup or shares of mining fees.
 Contact core@ellaism.org or ping @ellaismer on [Discord](https://discord.ellaism.org/) if you want your pool added to this list.
 
-<div id="all-pools">
-<ul>
-  <li><a href="http://ella.ethash-coins.ru">Ethash-coins.ru</a></li>
-  <li><a href="http://ellaism.2zo.pw">2zo.pw</a></li>
-  <li><a href="http://ella.coinminer.space">CoinminerSpace</a></li>
-  <li><a href="http://ella.altpool.pro">AltpoolPro</a></li>
-  <li><a href="http://ella-solo.cryptodig.ru">Cryptodig.ru</a></li>
-  <li><a href="http://cryptobee.de">Cryptobee</a></li>
-  <li><a href="https://2miners.com">2miners</a></li>
-  <li><a href="http://ellaismpool.com">Ellaismpool.com</a></li>
-  <li><a href="http://megapool.io/ella">MegaPool</a></li>
-  <li><a href="https://ella.reidocoin.com.br/">Rei Do Coin</a></li>
-  <li><a href="http://clona.ru">Clona.ru</a></li>
-  <li><a href="http://ell.baikalmine.com">BaikalMine</a></li>
-  <li><a href="http://ella.cryptopool.network">cryptopool.network</a></li>
-  <li><a href="http://ella.minerpool.net">Ella Minerpool</a></li>
-  <li><a href="http://ella.epool.io">Epool.io</a></li>
-  <li><a href="http://swedishpool.se/">Swedishpool</a></li>
-  <li><a href="http://ella.ldvpool.com">LDVPool</a></li>
-  <li><a href="https://ella.solopool.org/">SoloPool</a></li>
-  <li><a href="http://comining.io/">Comining</a></li>
-  <li><a href="http://ella.digipools.org/">DigiPools</a></li>
-</ul>
-</div>
+* [Ethash-coins.ru](http://ella.ethash-coins.ru)
+* [2zo.pw](http://ellaism.2zo.pw)
+* [CoinminerSpace](http://ella.coinminer.space)
+* [AltpoolPro](http://ella.altpool.pro)
+* [Cryptodig.ru](http://ella-solo.cryptodig.ru)
+* [Cryptobee](http://cryptobee.de)
+* [2miners](https://2miners.com)
+* [Ellaismpool.com](http://ellaismpool.com)
+* [MegaPool](http://megapool.io/ella)
+* [Rei Do Coin](https://ella.reidocoin.com.br/)
+* [Clona.ru](http://clona.ru)
+* [BaikalMine](http://ell.baikalmine.com)
+* [cryptopool.network](http://ella.cryptopool.network)
+* [Ella Minerpool](http://ella.minerpool.net)
+* [Epool.io](http://ella.epool.io)
+* [Swedishpool](http://swedishpool.se/)
+* [LDVPool](http://ella.ldvpool.com)
+* [SoloPool](https://ella.solopool.org/)
+* [Comining](http://comining.io/)
+* [DigiPools](http://ella.digipools.org/)
