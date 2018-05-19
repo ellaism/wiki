@@ -14,7 +14,7 @@ vector file for logo
   	
 ---
 
-![I Love Ella White](/uploads/badges/i-love-ella-white.png "I Love Ella White"){background:#DDDDDD :height="25%" width="25%" .align-center}  
+![I Love Ella White](/uploads/badges/i-love-ella-white.png "I Love Ella White"){:height="25%" width="25%" .align-center}  
 
 ---
 
@@ -53,10 +53,12 @@ vector file for logo
 ![005 Its Official](/uploads/gifs/005-its-official.gif "005 Its Official"): {.align-center}
 
 ---
-![006 Ella Noico Nofees Lite](/uploads/gifs/006-ella-noico-nofees-lite.gif "006 Ella Noico Nofees Lite"): {.align-center}
+![006 Ella Noico Nofees Lite](/uploads/gifs/006-ella-noico-nofees-lite.gif "006 Ella Noico Nofees Lite"): {:height=360 width=360 .align-center}
+SMALL
 
 ---
-![006 Ella Noico Nofees](/uploads/gifs/006-ella-noico-nofees.gif "006 Ella Noico Nofees Lite") {.align-center}
+![006 Ella Noico Nofees](/uploads/gifs/006-ella-noico-nofees.gif "006 Ella Noico Nofees Lite"): {:height=360 width=360 .align-center}
+LARGE
 
 
 # Video
