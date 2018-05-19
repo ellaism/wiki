@@ -23,6 +23,7 @@ If you want to donate to the faucet, the address is
 
 Special thanks to [TBates](https://keybase.io/tbates76) and [Buzzkillb](https://keybase.io/buzzkillb) for the initial donations that made the faucet possible. And [Dev Pool](https://pool.ellaism.org) sponsors the transaction fees.
 
+
 # Carbon Vote
 
 Carbon Vote is a voting process that your weight of voting is based on the ELLA coins you own. The Carbon Vote bot on the Discord server allows you to easily create a new Carbon Vote process yourself. To do this, first list all the voting options, in `#bots` channel, for each option, run:
@@ -38,6 +39,7 @@ Collect the resulting addresses and ask voters to send a **zero-value** transact
 ```
 
 It will tell you how many carbons that particular option address has got.
+
 
 # Split Donations
 
@@ -62,6 +64,7 @@ Pools like Dev Pool has the additional features of MINING token. If you mined to
 ```
 
 And all your MINING tokens will be automatically sent to your wallet.
+
 
 # Testnet Faucet
 
@@ -88,6 +91,7 @@ We hold weekly development meetings every Saturday 4pm UTC. It is recommended th
 ```
 !rsvp yes
 ```
+
 
 # Blockchain Discord Logs
 
