@@ -65,7 +65,9 @@ vector file for logo
 
 ---
 [video](/uploads/video/006-ella-noico-nofees.mp4 "006 Ella Noico Nofees"){.video} {.align-center}
+
 ![006 Ella Noico Nofees](/uploads/gifs/006-ella-noico-nofees.gif "006 Ella Noico Nofees Lite"){:height=360 width=360 .align-center}
+
 ![006 Ella Noico Nofees Lite](/uploads/gifs/006-ella-noico-nofees-lite.gif "006 Ella Noico Nofees Lite"){:height=360 width=360 .align-center}
 
 
