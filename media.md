@@ -1,4 +1,4 @@
-![Logo](/uploads/logo.png "Logo"){.pagelogo}{:height=200 width=200}
+![Logo](/uploads/logo.png "Logo"){.pagelogo}{:height=100 width=100}
 <!-- TITLE: Media -->
 <!-- SUBTITLE: Ellaism - A stable network with no premine and no dev fees -->
 
