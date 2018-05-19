@@ -19,7 +19,12 @@ The Ellaism Dev Pool is used to keep the Dev Fund going, and other pools also do
 
 |Pool name| Donation (% from fee) | Mining fee|
 |---------------|---------------------------------|----------------|
-|[Dev Pool](https://pool.ellaism.org)  |                  100| 1                |
+|[Dev Pool](https://pool.ellaism.org)  | 100 | 1 |
+|[Pool Sexy](http://ella.pool.sexy) | 2.5% | 0.25 |
+  <li><a href="http://ella.cryptobitpool.eu">Cryptobitpool</a> (25% of 0.1% mining fees)</li>
+  <li><a href="http://ella.cryptopools.info">cryptopools.info</a> (25% of 1% mining fees)</li>
+  <li><a href="https://pool.nonlocal.ca">Nonlocal</a> (100% of 1% mining fees)</li>
+  <li><a href="https://ucrypto.net/currency/?curr=ELLA">uCrypto</a> (5% of 0.5% mining fees)</li>
 
 **Pools using Ellaism's version of [open-ethereum-pool](https://github.com/ellaism/open-ethereum-pool)**
 
