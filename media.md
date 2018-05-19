@@ -45,9 +45,10 @@
 ![Spinning ELLA](/uploads/gifs/spinningella.gif "Spinning ELLA"){:height=360 width=360 .align-center}
 
 ---
+**FULL SIZE**
 ![001 Ella Funddrive](/uploads/gifs/001-ella-funddrive.gif "001 Ella Funddrive"){:height=360 width=360 .align-center}
 
----
+**SMALL SIZE**
 ![Ella Funddrive Small](/uploads/gifs/001-ella-funddrive-400.gif "Ella Funddrive"){:height=360 width=360 .align-center}
 
 ---
