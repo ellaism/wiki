@@ -10,7 +10,10 @@ Ellaism has a Twitter faucet to help new users get started with the network. By 
 
 First, get your Tweet ID, with a url like `https://twitter.com/ellaismcore/status/958926185991254016` the Tweet ID is the digits in the end `958926185991254016`.
 
-Then, go to the Ellaism discord. In `#bots` channel, send a message `!faucet claim <tweet id> <destination address>`.
+Then, go to the Ellaism discord. In `#bots` channel, send a message 
+```
+!faucet claim <tweet id> <destination address>
+```
 
 For example, 
 ```
