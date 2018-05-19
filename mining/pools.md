@@ -33,7 +33,6 @@ Other pools may also have advantages in their setup or shares of mining fees.
 Contact core@ellaism.org or ping @ellaismer on [Discord](https://discord.ellaism.org/) if you want your pool added to this list.
 
 * [Ethash-coins.ru](http://ella.ethash-coins.ru)
-* [2zo.pw](http://ellaism.2zo.pw)
 * [CoinminerSpace](http://ella.coinminer.space)
 * [AltpoolPro](http://ella.altpool.pro)
 * [Cryptodig.ru](http://ella-solo.cryptodig.ru)
@@ -41,7 +40,6 @@ Contact core@ellaism.org or ping @ellaismer on [Discord](https://discord.ellaism
 * [2miners](https://2miners.com)
 * [Ellaismpool.com](http://ellaismpool.com)
 * [MegaPool](http://megapool.io/ella)
-* [Rei Do Coin](https://ella.reidocoin.com.br/)
 * [Clona.ru](http://clona.ru)
 * [BaikalMine](http://ell.baikalmine.com)
 * [cryptopool.network](http://ella.cryptopool.network)
