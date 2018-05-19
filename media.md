@@ -45,10 +45,10 @@
 ![Spinning ELLA](/uploads/gifs/spinningella.gif "Spinning ELLA"){:height=360 width=360 .align-center}
 
 ---
-**FULL SIZE**
+**554x554 FULL SIZE**
 ![001 Ella Funddrive](/uploads/gifs/001-ella-funddrive.gif "001 Ella Funddrive"){:height=360 width=360 .align-center}
 
-**SMALL SIZE**
+**400x400 SMALL SIZE**
 ![Ella Funddrive Small](/uploads/gifs/001-ella-funddrive-400.gif "Ella Funddrive"){:height=360 width=360 .align-center}
 
 ---
@@ -68,10 +68,10 @@
 ---
 [video](/uploads/video/006-ella-noico-nofees.mp4 "006 Ella Noico Nofees"){.video} {.align-center}
 
-**LARGE**
+**554x554 FULL SIZE ANIMATED GIF**
 ![006 Ella Noico Nofees](/uploads/gifs/006-ella-noico-nofees.gif "006 Ella Noico Nofees Lite"){:height=360 width=360 .align-center}
 
-**SMALL**
+**400x400 SMALL SIZE ANIMATED GIF**
 ![006 Ella Noico Nofees Lite](/uploads/gifs/006-ella-noico-nofees-lite.gif "006 Ella Noico Nofees Lite"){:height=360 width=360 .align-center}
 
 
