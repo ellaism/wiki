@@ -2,15 +2,14 @@
 <!-- TITLE: Code Of Conduct -->
 <!-- SUBTITLE: Ellaism - A stable network with no premine and no dev fees -->
 
-# Ellaism Community Code of Conduct (Draft)
 
 *This is a draft version of The Code of Conduct for the Ellaism Community. The version needs to be finalized by Ellaism's Code of Conduct Working Group, which you can participate in our [Discord server](https://discord.gg/gz9tURY)*.
 
-## Our Pledge
+# Our Pledge
 
 In the interest of fostering an open and welcoming environment, we as Ellaism contributors pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
-## Our Standards
+# Our Standards
 
 Examples of behavior that contributes to creating a positive environment include:
 
@@ -28,7 +27,7 @@ Examples of unacceptable behavior by participants include:
 * Publishing others' private information, such as a physical or electronic address, without explicit permission
 * Other conduct which could reasonably be considered inappropriate in a professional setting
   
-## Scope
+# Scope
 
 **The Code of Conduct Working Group** (CoC Working Group) is an open group in Ellaism community, and is responsible for handling conduct-related issues. Their purpose is to de-escalate conflicts and try to resolve issues to the satisfaction of all parties.
 
@@ -36,7 +35,7 @@ The Ellaism blockchain is decentralized. In the mean time, to create a positive 
 
 If you disagree with anything in this Code of Conduct, we do appreciate it if you can let the CoC Working Group know first.
 
-## Moderation
+# Moderation
 
 In Ellaism's Discord server, the CoC Working Group is responsible for selecting the moderators and enforce the conduct.
 
@@ -49,7 +48,7 @@ Moderators are held to a higher standard than other community members. If a mode
 
 If you experience anything that you find inapproriate and want to discuss it privately, or if you feel anything the moderators have done is unjustified, you can also contact Ellaism's [Core Team](mailto:core@ellaism.org).
 
-## Attribution
+# Attribution
 
 This Code of Conduct is maintained by Ellaism's Code of Conduct Working Group.
 
