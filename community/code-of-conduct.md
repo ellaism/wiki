@@ -1,7 +1,7 @@
 ![Logo](/uploads/logo.png "Logo"){.pagelogo}
 <!-- TITLE: Code Of Conduct -->
 <!-- SUBTITLE: Ellaism - A stable network with no premine and no dev fees -->
-<!-- background: #6f6f6f -->
+<!-- background: #ffffff -->
 
 
 
