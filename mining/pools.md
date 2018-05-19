@@ -6,7 +6,7 @@
 
 
 | Pool | Donation (% from fee) | Mining fee |
-|---------------|---------------------------------|----------------:|
+|---------------|---------------------------------:|----------------:|
 | [Dev Pool](https://pool.ellaism.org)  | 100 | 1 |
 | [Pool Sexy](http://ella.pool.sexy) | 2.5 | 0.25 |
 | [Cryptobitpool](http://ella.cryptobitpool.eu) | 25 | 0.1 |
