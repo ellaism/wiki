@@ -23,7 +23,7 @@
     - [Dev Fund](about/dev-fund)
 - [Community](community)
     - [Code of conduct](community/code-of-conduct)
-    - [Community Fund](community/communiti-fund)
+    - [Community Fund](community/community-fund)
     - [Swag Store](community/swag-store)
     - [Meetings](community/meetings)
 - Dapps
