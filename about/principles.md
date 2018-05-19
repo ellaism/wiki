@@ -15,7 +15,6 @@ All changes and upgrades to the protocol should strive to maintain and reinforce
 * Irreversible Transactions: Confirmed blocks should be set in stone. Blockchain History should be immutable.
 * No Contentious Hard Forks: Never hard fork without consensus from the whole community. Only break the existing consensus when necessary.
 Many feature upgrades can be carried out without a hard fork, such as improving the performance of the EVM.
->![Logo](/uploads/logo.png "Logo") ![Logo](/uploads/logo.png "Logo") ![Logo](/uploads/logo.png "Logo")
 
 ---
 [^1]: https://en.bitcoin.it/wiki/Principles_of_Bitcoin)
