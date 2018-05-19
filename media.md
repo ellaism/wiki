@@ -14,7 +14,7 @@ vector file for logo
   	
 ---
 
-![I Love Ella White](/uploads/badges/i-love-ella-white.png "I Love Ella White"){:background:#DDDDDD :height="25%" width="25%" .align-center}  
+![I Love Ella White](/uploads/badges/i-love-ella-white.png "I Love Ella White"){background:#DDDDDD :height="25%" width="25%" .align-center}  
 
 ---
 
