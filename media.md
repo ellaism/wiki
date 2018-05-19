@@ -3,8 +3,8 @@
 <!-- SUBTITLE: Ellaism - A stable network with no premine and no dev fees -->
 
 # Logo
-![Logo](/uploads/logo.png "Logo"){.align-center}
-The original Ellaism Logo File.
+![Logo](/uploads/logo.png "Logo"){:height=300 width=300 .align-center}
+The original rastor version of Ellaism Logo.
 
 ---
 ![Ella Logo](/uploads/ella-logo.svg "Ella Logo"){:height="25%" width="25%" .align-center}
