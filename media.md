@@ -2,6 +2,7 @@
 <!-- TITLE: Media -->
 <!-- SUBTITLE: Ellaism - A stable network with no premine and no dev fees -->
 <!-- background: #dddddd !important; -->
+
 <div class="media-page">
 # Logo
 ![Logo](/uploads/logo.png "Logo"){:height=360 width=360 .align-center}
