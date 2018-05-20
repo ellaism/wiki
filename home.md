@@ -29,8 +29,8 @@
 - [Dapps](dapps)
 - [Testnet](testnet)
 - [Bots](bots)
-- Clients
-    - Parity
+- [Clients](clients)
+	- [Parity](clients/parity)
 - [Mining](mining)
     - [Solo mining](mining/solo-mining)
     - [Pools](mining/pools)
