@@ -6,9 +6,10 @@ Parity is an Ethereum client, written from the ground-up for correctness-verifia
 
 Parity comes with an extensive, in-built Ethereum Wallet and Dapp environment. It includes:
 
-    Accounts and address-book.
-    Key creation, importing and exporting.
-    Web3 Ðapp browser.
-    Hardware and electronic cold-wallet support.
-    Name registry support.
-    Contract development, deployment and interaction environment.
+* Accounts and address-book.
+* Key creation, importing and exporting.
+* Web3 Ðapp browser.
+* Hardware and electronic cold-wallet support.
+* Name registry support.
+* Contract development, deployment and interaction environment.
+* 
