@@ -2,7 +2,7 @@
 <!-- TITLE: Clients -->
 <!-- SUBTITLE: Ellaism - A stable network with no premine and no dev fees -->
 
-Parity version 1.10.3+ is required to connect to Ellaism network.
+[Parity](cleints) version 1.10.3+ is required to connect to Ellaism network.
 At block 2 000 000 Ellaism will fork to enable Ethereum byzantium[^1] features and wasm[^2] support.
 
 **Old clients will be deprecated**
