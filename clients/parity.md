@@ -12,4 +12,3 @@ Parity comes with an extensive, in-built Ethereum Wallet and Dapp environment. I
 * Hardware and electronic cold-wallet support.
 * Name registry support.
 * Contract development, deployment and interaction environment.
-* 
