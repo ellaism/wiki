@@ -2,7 +2,7 @@
 <!-- TITLE: Media -->
 <!-- SUBTITLE: Ellaism - A stable network with no premine and no dev fees -->
 <!-- background: #dddddd !important; -->
-
+<div class="media-page">
 # Logo
 ![Logo](/uploads/logo.png "Logo"){:height=360 width=360 .align-center}
 **ORIGINAL RASTOR LOGO**
@@ -75,5 +75,5 @@
 **400x400 SMALL SIZE ANIMATED GIF**
 ![006 Ella Noico Nofees Lite](/uploads/gifs/006-ella-noico-nofees-lite.gif "006 Ella Noico Nofees Lite"){:height=360 width=360 .align-center}
 
-
+</div>
 
