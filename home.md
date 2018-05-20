@@ -31,8 +31,8 @@
 - [Bots](bots)
 - Clients
     - Parity
-- Mining
-    - Solo mining
+- [Mining](mining)
+    - [Solo mining](mining/solo-mining)
     - [Pools](mining/pools)
 - [Wallets](wallets)
 - [Exchanges](exchanges)
