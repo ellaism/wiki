@@ -81,7 +81,7 @@
 **554x554 FULL SIZE**
 [video](/uploads/video/007-notsecurity.mp4 "007 NotSecurity"){.video} {.align-center}
 
-**400x400 SMALL SIZE**
+**360x360 SMALL SIZE**
 [video](/uploads/video/007-notsecurity-lite.mp4 "007 NotSecurity Lite"){.video} {.align-center}
 
 </div>
