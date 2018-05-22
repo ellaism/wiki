@@ -43,4 +43,4 @@
 [video](/uploads/video/007-ella-notsecurity-lite.mp4 "007 NotSecurity Lite"){.video} {.align-center}
 
 **360x360 No Sound WebM**
-[007 Ella Notsecurity Nosound](/uploads/video/007-ella-notsecurity-nosound.webm "007 Ella Notsecurity Nosound")
+[video](/uploads/video/007-ella-notsecurity-nosound.webm"){.video} {.align-center}
