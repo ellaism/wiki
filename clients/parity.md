@@ -15,6 +15,7 @@ Parity comes with an extensive, in-built Ethereum Wallet and Dapp environment. I
 * Name registry support.
 * Contract development, deployment and interaction environment.
 
+Download Parity from [official repository](https://github.com/paritytech/parity/releases)
 
 Run Parity with
 ```
