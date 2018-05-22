@@ -14,3 +14,10 @@ Parity comes with an extensive, in-built Ethereum Wallet and Dapp environment. I
 * Hardware and electronic cold-wallet support.
 * Name registry support.
 * Contract development, deployment and interaction environment.
+
+
+Run Parity with
+```
+parity --chain ellaism.
+```
+Include the *--author yourellaaddress* parameter if you plan to mine using this node.
