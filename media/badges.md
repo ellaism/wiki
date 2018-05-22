@@ -1,5 +1,3 @@
-<div markdown="1" class="media-page">
-
 ![Logo](/uploads/logo.png "Logo"){.pagelogo}
 <!-- TITLE: Badges -->
 <!-- SUBTITLE: Ellaism - A stable network with no premine and no dev fees -->
@@ -33,4 +31,3 @@
 ![Ella Enthusiast White](/uploads/badges/ella-enthusiast-white.png "Ella Enthusiast White"){:height=360 width=360 .align-center}
 
 ---
-</div>
