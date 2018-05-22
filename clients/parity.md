@@ -17,7 +17,8 @@ Parity comes with an extensive, in-built Ethereum Wallet and Dapp environment. I
 
 Download Parity from [official repository](https://github.com/paritytech/parity/releases)
 
-Run Parity with
+Run with:
+
 ```
 parity --chain ellaism.
 ```
