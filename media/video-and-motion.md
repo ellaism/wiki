@@ -1,5 +1,5 @@
 ![Logo](/uploads/logo.png "Logo"){.pagelogo}
-<!-- TITLE: Video And Motion -->
+<!-- TITLE: Video And Motion Graphics-->
 <!-- SUBTITLE: Ellaism - A stable network with no premine and no dev fees -->
 
 # Video and Motion Graphics
