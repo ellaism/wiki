@@ -37,4 +37,5 @@
 - [Wallets](wallets)
 - [Exchanges](exchanges)
 - [Media](media)
+	- [Badges](media/badges)
 - [Financial reports](financial-reports)
