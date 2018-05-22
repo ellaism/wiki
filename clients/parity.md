@@ -20,6 +20,6 @@ Download Parity from [official repository](https://github.com/paritytech/parity/
 Run with:
 
 ```
-parity --chain ellaism.
+parity --chain ellaism
 ```
 Include the *--author yourellaaddress* parameter if you plan to mine using this node.
