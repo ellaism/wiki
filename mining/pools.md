@@ -21,7 +21,7 @@ Below is the list of pools using this fork.
 
 |Pool| Country | Client | Version |
 |:-------|------------|-----------|------------:|
-| [Dev Mining Pool](https://pool.ellaism.org/)|     | Parity   | 1.9.5   |
+| :us:[Dev Mining Pool](https://pool.ellaism.org/)|     | Parity   | 1.9.5   |
 | [Cryptobitpool](http://ella.cryptobitpool.eu/) |    |  Geth  | 1.8.3   |
 | [Ellaismpool.com](http://ellaismpool.com)   |    |    |    |
 | [Nonlocal](https://pool.nonlocal.ca)              |     |  Parity |  1.10.3  |
