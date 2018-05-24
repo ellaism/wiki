@@ -25,6 +25,7 @@ Below is the list of pools using this fork.
 * [Ellaismpool.com](http://ellaismpool.com)
 * [Nonlocal](https://pool.nonlocal.ca)
 * [poolHUB](http://ella.poolhub.org/)
+* 
 
 
 **All Pools**
@@ -45,10 +46,11 @@ Contact core@ellaism.org or ping @ellaismer on [Discord](https://discord.ellaism
 * [cryptopool.network](http://ella.cryptopool.network)
 * [Ella Minerpool](http://ella.minerpool.net)
 * [Epool.io](http://ella.epool.io)
-* [Swedishpool](http://swedishpool.se/)
+* [Swedishpool](http://swedishpool.se)
 * [LDVPool](http://ella.ldvpool.com)
-* [SoloPool](https://ella.solopool.org/)
+* [SoloPool](https://ella.solopool.org)
 * [Comining](http://comining.io/)
-* [DigiPools](http://ella.digipools.org/)
+* [DigiPools](http://ella.digipools.org)
 * [Nevermining](http://ella.nevermining.org)
-* [Upool](https://ella.upool.in)
+* [Upool.in](https://ella.upool.in)
+
