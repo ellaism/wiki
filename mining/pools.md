@@ -19,13 +19,14 @@
 Ellaism maintains its own fork of [open-ethereum-pool](https://github.com/ellaism/open-ethereum-pool) with improvements of memory usage, network latency and PPLNS support.
 Below is the list of pools using this fork.
 
-
-* [Dev Mining Pool](https://pool.ellaism.org/)
-* [Cryptobitpool](http://ella.cryptobitpool.eu/)
-* [Ellaismpool.com](http://ellaismpool.com)
-* [Nonlocal](https://pool.nonlocal.ca)
-* [poolHUB](http://ella.poolhub.org/)
-* 
+|Pool| Country | Client | Version |
+|-------|------------|-----------|------------|
+| [Dev Mining Pool](https://pool.ellaism.org/)|     |    |    |
+| [Cryptobitpool](http://ella.cryptobitpool.eu/) |    |    |    |
+| [Ellaismpool.com](http://ellaismpool.com)   |    |    |    |
+| [Nonlocal](https://pool.nonlocal.ca)              |     |   |    |
+| [poolHUB](http://ella.poolhub.org/)               |     |    |    |
+ 
 
 
 **All Pools**
