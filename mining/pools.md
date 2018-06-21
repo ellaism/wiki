@@ -2,7 +2,7 @@
 <!-- SUBTITLE: Ellaism - A stable network with no premine and no dev fees -->
 
 
-**Pools that Donate to Dev Fund**
+**Pools that Donate to Dev Fund / Community Fund**
 
 
 | Pool | Donation (% from fee) | Mining fee |
@@ -13,6 +13,7 @@
 | [cryptopools.info](http://ella.cryptopools.info) | 25 | 1|
 | [Nonlocal](https://pool.nonlocal.ca) | 100 | 1 |
 | [uCrypto](https://ucrypto.net/currency/?curr=ELLA) | 5 | 0.5 |
+| [CoinGarden](http://ella.cgpools.io/) | 50 | 1 |
 
 **Pools using Ellaism's version of [open-ethereum-pool](https://github.com/ellaism/open-ethereum-pool)**
 
