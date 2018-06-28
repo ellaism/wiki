@@ -25,3 +25,6 @@ Logs from past meetings can be found here:
 [26 May 2018](https://github.com/ellaism/meta/blob/master/logs/20180526-dev-meeting.md)
 
 [02 June 2018](https://github.com/ellaism/meta/blob/master/logs/20180602-dev-meeting.md)
+[09 June 2018](https://github.com/ellaism/meta/blob/master/logs/20180609-dev-meeting.md)
+[16 June 2018](https://github.com/ellaism/meta/blob/master/logs/20180616-dev-meeting.md)
+[23 June 2018](https://github.com/ellaism/meta/blob/master/logs/20180623-dev-meeting.md)
