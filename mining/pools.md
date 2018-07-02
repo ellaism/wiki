@@ -47,8 +47,6 @@ Contact core@ellaism.org or ping @ellaismer on [Discord](https://discord.ellaism
 * [BaikalMine](http://ell.baikalmine.com)
 * [cryptopool.network](http://ella.cryptopool.network)
 * [Ella Minerpool](http://ella.minerpool.net)
-* [Epool.io](http://ella.epool.io)
-* [Swedishpool](http://swedishpool.se)
 * [LDVPool](http://ella.ldvpool.com)
 * [SoloPool](https://ella.solopool.org)
 * [Comining](http://comining.io/)
