@@ -3,7 +3,13 @@
 <!-- SUBTITLE: Ellaism - A stable network with no premine and no dev fees -->
 
 * [Ellaism Shell](https://github.com/ellaism/shell/releases)  
-Ellaism-branded desktop wallet and dapp browser. 
+Ellaism-branded desktop wallet and dapp browser.
+
+* [Ellaism Wallet](https://itunes.apple.com/si/app/ellaism-wallet/id1397079303?mt=8)  
+Ellaism-branded iOS wallet and dapp browser.
+
+* [Ellaism Wallet](https://github.com/ellaism/Lunary-Ethereum-Wallet)  
+BETA Ellaism-branded Android wallet.
 
 * [MyCrypto](https://mycrypto.com)
 Choose ELLA from the top-right dropdown menu.  
