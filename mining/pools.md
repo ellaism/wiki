@@ -54,4 +54,5 @@ Contact core@ellaism.org or ping @ellaismer on [Discord](https://discord.ellaism
 * [Nevermining](http://ella.nevermining.org)
 * [Upool.in](https://ella.upool.in)
 * [BekoPool](https://bekopool.io/)
+* [CubePool](https://www.cubepool.eu)
 
