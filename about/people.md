@@ -1,7 +1,7 @@
 ![Logo](/uploads/logo.png "Logo"){.pagelogo}
 <!-- TITLE: People -->
 <!-- SUBTITLE: Ellaism - A stable network with no premine and no dev fees -->
-# People
+
 
 Ellaism is built by the community. Below, we list several persons that have contributed a significant amount to Ellaism in the last month. If you would like to be included in this page, please feel free to ask on our Discord server during the weekly dev meeting (every Saturday 4pm UTC).
 
