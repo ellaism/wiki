@@ -21,6 +21,7 @@
     - [Monetary supply](about/monetary-supply)
     - [Roadmap](about/roadmap)
     - [Dev Fund](about/dev-fund)
+    - [People](about/people)
 - [Community](community)
     - [Code of conduct](community/code-of-conduct)
     - [Community Fund](community/community-fund)
