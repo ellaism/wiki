@@ -3,7 +3,7 @@
 <!-- SUBTITLE: Ellaism - A stable network with no premine and no dev fees -->
 
 # Ellaism Tokens
-## A collection of known tokens on the Ellaism network
+A collection of known tokens on the Ellaism network
 ## Wallet Endpoint
 
 The iOS wallet includes a token search end point that you can use to list all the tokens on the Ellaism network.
