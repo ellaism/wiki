@@ -17,7 +17,7 @@ Contract Address: 0x991e7fe4b05f2b3db1d788e705963f5d647b0044
 
 ## DONATE
 ### Ellaism Donation Token
-Given away when mining on the dev pool.
+Given away when donating.
 
 Contract Address: 0x4aaad871293c4581edb580e99fb6613b0a3bc488, 0x40dbccedbdd945a4704734a0557ed75110b4fb21
 
