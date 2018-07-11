@@ -1,8 +1,9 @@
+![Logo](/uploads/logo.png "Logo"){.pagelogo}
 <!-- TITLE: Tokens -->
-<!-- SUBTITLE: A collection of known tokens on the Ellaism network -->
+<!-- SUBTITLE: Ellaism - A stable network with no premine and no dev fees -->
 
 # Ellaism Tokens
-
+## A collection of known tokens on the Ellaism network
 ## Wallet Endpoint
 
 The iOS wallet includes a token search end point that you can use to list all the tokens on the Ellaism network.
