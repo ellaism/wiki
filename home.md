@@ -28,6 +28,7 @@
     - [Swag Store](community/swag-store)
     - [Meetings](community/meetings)
 - [Dapps](dapps)
+- [Tokens](tokens)
 - [Testnet](testnet)
 - [Bots](bots)
 - [Clients](clients)
