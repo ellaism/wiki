@@ -1,11 +1,24 @@
 <!-- TITLE: Tokens -->
 <!-- SUBTITLE: A collection of known tokens on the Ellaism network -->
 
-# Token List
+# Ellaism Tokens
 
-The iOS wallet include a token search end point that you can use to list all the tokens on the Ellaism network.
+## Wallet Endpoint
+
+The iOS wallet includes a token search end point that you can use to list all the tokens on the Ellaism network.
 
 https://trustray.outdoordevs.com/tokens/list?query=0
+
+## Adding your own image
+
+If you want to add an image to the iOS wallet, fork the repo:
+
+https://github.com/ellaism/trust-wallet-ios
+
+
+Add your image to **docs/images/tokens/**
+
+The image should be address of the contract all lowercase with a .png extension.  Images should be 256x256 pixels.
 
 
 ## MINING
