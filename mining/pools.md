@@ -27,6 +27,7 @@ Below is the list of pools using this fork.
 | [Ellaismpool.com](http://ellaismpool.com)   |:us:|    |    |
 | [Nonlocal](https://pool.nonlocal.ca)              |:us:|Parity|1.10.3|
 | [poolHUB](http://ella.poolhub.org/)               |:us:|    |    |
+| [MyPool.Online](https://ella.mypool.online)  |      |    |Parity|
  
 
 
@@ -55,4 +56,6 @@ Contact core@ellaism.org or ping @ellaismer on [Discord](https://discord.ellaism
 * [Upool.in](https://ella.upool.in)
 * [BekoPool](https://bekopool.io/)
 * [CubePool](https://www.cubepool.eu)
+* [Swedishpool](http://swedishpool.se)
+* [Epool.io](https://ella.epool.io)
 
