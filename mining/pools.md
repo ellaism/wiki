@@ -69,6 +69,7 @@ Contact core@ellaism.org or ping @ellaismer on [Discord](https://discord.ellaism
 * [Swedishpool](http://swedishpool.se)
 * [Epool.io](https://ella.epool.io)
 * [TEST](https://test.io)
+* [TEST2](https://test.io)
 
 
 </div>
