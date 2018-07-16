@@ -5,6 +5,9 @@
 **Pools that Donate to Dev Fund / Community Fund**
 
 
+<div id="dev-pools">
+
+
 | Pool | Donation (% from fee) | Mining fee |
 |---------------|---------------------------------:|----------------:|
 | [Dev Pool](https://pool.ellaism.org)  | 100 | 1 |
@@ -15,10 +18,15 @@
 | [uCrypto](https://ucrypto.net/currency/?curr=ELLA) | 5 | 0.5 |
 | [CoinGarden](http://ella.cgpools.io/) | 50 | 1 |
 
+</div>
+
 **Pools using Ellaism's version of [open-ethereum-pool](https://github.com/ellaism/open-ethereum-pool)**
 
 Ellaism maintains its own fork of [open-ethereum-pool](https://github.com/ellaism/open-ethereum-pool) with improvements of memory usage, network latency and PPLNS support.
 Below is the list of pools using this fork.
+
+
+<div id="oep-pools">
 
 |Pool| Country | Client | Version |
 |:-------|:------------:|-----------|------------:|
@@ -29,12 +37,14 @@ Below is the list of pools using this fork.
 | [poolHUB](http://ella.poolhub.org/)               |:us:|    |    |
 | [MyPool.Online](https://ella.mypool.online)  |      |    |Parity|
  
-
+</div>
 
 **All Pools**
 
 Other pools may also have advantages in their setup or shares of mining fees.
 Contact core@ellaism.org or ping @ellaismer on [Discord](https://discord.ellaism.org/) if you want your pool added to this list.
+
+<div id="all-pools">
 
 * [Ethash-coins.ru](http://ella.ethash-coins.ru)
 * [CoinminerSpace](http://ella.coinminer.space)
@@ -58,4 +68,8 @@ Contact core@ellaism.org or ping @ellaismer on [Discord](https://discord.ellaism
 * [CubePool](https://www.cubepool.eu)
 * [Swedishpool](http://swedishpool.se)
 * [Epool.io](https://ella.epool.io)
+
+
+</div>
+
 
