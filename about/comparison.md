@@ -10,7 +10,7 @@ philosophy, and community.
 
 # Comparison Table
 
-<div id="comparison_table">
+<div id="comparison-table-content">
 
 | Name                      | Dev Fees | ICO Premine |   Dev Premine | Genesis Block | PCS[^1] | DCS[^2] |
 |---------------------------|----------------:|-------------------:|----------------------:|----------------------:|---------:|---------:|
