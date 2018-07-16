@@ -68,7 +68,6 @@ Contact core@ellaism.org or ping @ellaismer on [Discord](https://discord.ellaism
 * [CubePool](https://www.cubepool.eu)
 * [Swedishpool](http://swedishpool.se)
 * [Epool.io](https://ella.epool.io)
-* [TEST](https://test.io)
 
 
 </div>
