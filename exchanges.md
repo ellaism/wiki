@@ -7,3 +7,7 @@
 * [Cryptobroker](https://trade.cryptobroker.io/markets/ellabtc)
 * [LDVBank](https://ldvbank.com/en-us/trading/)
 * [Bisq](https://bisq.network/)
+
+You can buy Ella with a credit card from IndaCoin.  Know your customer documents must be submitted (Drivers license, credit card, selfie with both pieces of ID).
+
+* [IndaCoin](https://indacoin.com/)
