@@ -10,6 +10,8 @@ philosophy, and community.
 
 # Comparison Table
 
+<div id="comparison_table">
+
 | Name                      | Dev Fees | ICO Premine |   Dev Premine | Genesis Block | PCS[^1] | DCS[^2] |
 |---------------------------|----------------:|-------------------:|----------------------:|----------------------:|---------:|---------:|
 | Ethereum                |        0         |  60 million     |    12 million      | 72 million         |>50% |  13% |
@@ -21,6 +23,11 @@ philosophy, and community.
 
 [^1]: Percentage of genesis block coins in current supply
 [^2]: Percentage of mandatory developer fees or premine in current supply
+
+
+</div>
+
+
 # Ethereum
 
 The chain by *Ethereum Foundation* is the oldest and currently the most
