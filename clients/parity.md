@@ -23,3 +23,5 @@ Run with:
 parity --chain ellaism
 ```
 Include the *--author yourellaaddress* parameter if you plan to mine using this node.
+
+[Official documentation](https://wiki.parity.io)
