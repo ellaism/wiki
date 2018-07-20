@@ -46,7 +46,6 @@ Contact core@ellaism.org or ping @ellaismer on [Discord](https://discord.ellaism
 * [CoinminerSpace](http://ella.coinminer.space)
 * [AltpoolPro](http://ella.altpool.pro)
 * [Cryptodig.ru](http://ella-solo.cryptodig.ru)
-* [Cryptobee](http://cryptobee.de)
 * [2miners](https://2miners.com)
 * [Ellaismpool.com](http://ellaismpool.com)
 * [MegaPool](http://megapool.io/ella)
@@ -54,7 +53,6 @@ Contact core@ellaism.org or ping @ellaismer on [Discord](https://discord.ellaism
 * [BaikalMine](http://ell.baikalmine.com)
 * [cryptopool.network](http://ella.cryptopool.network)
 * [Ella Minerpool](http://ella.minerpool.net)
-* [LDVPool](http://ella.ldvpool.com)
 * [SoloPool](https://ella.solopool.org)
 * [Comining](http://comining.io/)
 * [DigiPools](http://ella.digipools.org)
@@ -62,8 +60,6 @@ Contact core@ellaism.org or ping @ellaismer on [Discord](https://discord.ellaism
 * [Upool.in](https://ella.upool.in)
 * [BekoPool](https://bekopool.io/)
 * [CubePool](https://www.cubepool.eu)
-* [Swedishpool](http://swedishpool.se)
-* [Epool.io](https://ella.epool.io)
 
 
 </div>
