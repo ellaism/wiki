@@ -12,10 +12,7 @@
 |---------------|---------------------------------:|----------------:|
 | [Dev Pool](https://pool.ellaism.org)  | 100 | 1 |
 | [Pool Sexy](http://ella.pool.sexy) | 2.5 | 0.25 |
-| [Cryptobitpool](http://ella.cryptobitpool.eu) | 25 | 0.1 |
-| [cryptopools.info](http://ella.cryptopools.info) | 25 | 1|
 | [Nonlocal](https://pool.nonlocal.ca) | 100 | 1 |
-| [uCrypto](https://ucrypto.net/currency/?curr=ELLA) | 5 | 0.5 |
 | [CoinGarden](http://ella.cgpools.io/) | 50 | 1 |
 
 </div>
@@ -31,7 +28,6 @@ Below is the list of pools using this fork.
 |Pool| Country | Client | Version |
 |:-------|:------------:|-----------|------------:|
 | [Dev Mining Pool](https://pool.ellaism.org/)|:us: :de: |Parity|1.9.5|
-| [Cryptobitpool](http://ella.cryptobitpool.eu/) |:de:|Geth|1.8.3|
 | [Ellaismpool.com](http://ellaismpool.com)   |:us:|    |    |
 | [Nonlocal](https://pool.nonlocal.ca)              |:us:|Parity|1.10.3|
 | [poolHUB](http://ella.poolhub.org/)               |:us:|    |    |
