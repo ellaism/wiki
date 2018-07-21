@@ -1,5 +1,5 @@
 <!-- TITLE: Create and Deploy Ellaism Tokens -->
-<!-- SUBTITLE: This guide will walk through the process of creating a token on the Ellaism network.  It will cover creating the smart contract written in Solidity, deploying it, adding your source code to the explorer, and adding icons to mobile wallets. -->
+<!-- SUBTITLE: From Solidity contract to Python Air Drop! -->
 
 # Ellaism ERC-20 Tutorial
 
