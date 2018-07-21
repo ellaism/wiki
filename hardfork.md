@@ -4,7 +4,7 @@
 
 # What you need to do to prepare for the network upgrade happening in August 2018.
 
-A network upgrade is planned to happen at block number 2,000,000, for around the end of August, 2018. This adds Ethereum Byzantium features and enables WebAssembly scripting on Ellaism blockchain. multi-geth and go-ellaism support is being drop, and we urge everyone to upgrade to Parity v1.10.3+.
+A network upgrade is planned to happen at block number 2,000,000, for around August 2018. This adds Ethereum Byzantium features and enables WebAssembly scripting on Ellaism blockchain. multi-geth and go-ellaism support is being dropped, and we urge everyone to upgrade to Parity v1.10.6+.
 
 The current estimated network upgrade date is **3 August, 2018**.
 

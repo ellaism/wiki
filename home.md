@@ -46,3 +46,4 @@
 	- [Badges](media/badges)
 	- [Video and motion graphics](media/video-and-motion)
 - [Financial reports](financial-reports)
+- [Tutorials](tutorials)
