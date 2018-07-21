@@ -104,7 +104,7 @@ add the TestNet URL.
 
 https://jsonrpc.testnet.ellaism.org
 
-![Configure MetaMask](/images/metamask-setup.png)
+![Metamask Setup](/uploads/tutorials/metamask-setup.png "Metamask Setup")
 
 
 Next use MetaMask to create a new account on the TestNet.  Then login to the [Discord](https://discord.ellaism.org/) to send yourself some
@@ -131,14 +131,14 @@ Make sure your address is displayed next to "Account".  You might have to choose
 
 Make sure "FixedSupplyToken" is selected in the drop down menu above the deploy button.
 
-![Configure Remix](/images/remix-setup.png)
+![Remix Setup](/uploads/tutorials/remix-setup.png "Remix Setup")
 
 Then press the Deploy button.
 
 
 You should get a MetaMask confirmation window.
 
-![MetaMask Confirmation Dialog](/images/metamask-confirm.png)
+![Metamask Confirm](/uploads/tutorials/metamask-confirm.png "Metamask Confirm")
 
 Click the Confirm button.
 
@@ -147,7 +147,7 @@ FixedTokenSupply should now appear on the bottom of the right side bar. Clicking
 grab the address of the token.  You should place this address in the source code of the token on line 15.  This address is needed
 to interact with the smart contract.
 
-![Remix Post Deploy](/images/remix-deployed.png)
+![Remix Deployed](/uploads/tutorials/remix-deployed.png "Remix Deployed")
 
 You can click the buttons on the left to call functions on your smart contract to test if they are all working as intended.
 
