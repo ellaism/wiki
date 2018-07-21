@@ -38,6 +38,7 @@
     - [Pools](mining/pools)
 - [Wallets](wallets)
 - [Exchanges](exchanges)
+	- [Listing info](exchanges/listing-info)
 - [Media](media)
 	- [Logo](media/logo)
 	- [Badges](media/badges)
