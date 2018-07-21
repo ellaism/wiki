@@ -3,4 +3,4 @@
 <!-- SUBTITLE: A stable network with no premine and no dev fees -->
 
 
-[Create an ERC-20 Token on the Ellaism Network](https://github.com/stevemulligan/ellaism-token-example)
+[Create an ERC-20 Token on the Ellaism Network]
