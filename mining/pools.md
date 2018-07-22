@@ -61,6 +61,7 @@ Contact core@ellaism.org or ping @ellaismer on [Discord](https://discord.ellaism
 * [Noobpool](http://ella.noobpool.com)
 * [BekoPool](https://bekopool.io/)
 * [CubePool](https://www.cubepool.eu)
+* [SpeedPool](https://ella-speedpool.com)
 
 
 </div>
