@@ -47,3 +47,4 @@
 	- [Video and motion graphics](media/video-and-motion)
 - [Financial reports](financial-reports)
 - [Tutorials](tutorials)
+	- [Create and Deploy Ellaism Tokens](tutorials/create-and-deploy-ellaism-tokens)
