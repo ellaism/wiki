@@ -35,6 +35,8 @@ The following mining pools have upgraded their nodes with support of the network
 * [Nonlocal](https://pool.nonlocal.ca/)
 * [CGPools](https://ella.cgpools.io/)
 * [AcroDuck](https://ellapool.acroduck.de/)
+* [SpeedPool](https://ella-speedpool.com)
+
 
 ## Specifications
 
