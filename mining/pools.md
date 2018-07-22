@@ -32,7 +32,7 @@ Below is the list of pools using this fork.
 | [Nonlocal](https://pool.nonlocal.ca)              |:us:|Parity|1.10.3|
 | [poolHUB](http://ella.poolhub.org/)               |:us:|    |    |
 | [MyPool.Online](https://ella.mypool.online)  |      |Parity    | |
-| [SpeedPool](https://ella-speedpool.com)|:us:|Parity|v1.10.8|
+| [SpeedPool](https://ella-speedpool.com)|:pl:|Parity|v1.10.8|
  
 </div>
 
