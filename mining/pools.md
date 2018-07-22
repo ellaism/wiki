@@ -43,26 +43,26 @@ Contact core@ellaism.org or ping @ellaismer on [Discord](https://discord.ellaism
 
 <div id="all-pools">
 
-* [Ethash-coins.ru](http://ella.ethash-coins.ru)
-* [CoinminerSpace](http://ella.coinminer.space)
-* [AltpoolPro](http://ella.altpool.pro)
-* [Cryptodig.ru](http://ella-solo.cryptodig.ru)
-* [2miners](https://2miners.com)
-* [Ellaismpool.com](http://ellaismpool.com)
-* [MegaPool](http://megapool.io/ella)
-* [Clona.ru](http://clona.ru)
-* [BaikalMine](http://ell.baikalmine.com)
-* [cryptopool.network](http://ella.cryptopool.network)
-* [Ella Minerpool](http://ella.minerpool.net)
-* [SoloPool](https://ella.solopool.org)
-* [Comining](http://comining.io/)
-* [DigiPools](http://ella.digipools.org)
-* [Nevermining](http://ella.nevermining.org)
-* [Upool.in](https://ella.upool.in)
-* [Noobpool](http://ella.noobpool.com)
-* [BekoPool](https://bekopool.io/)
-* [CubePool](https://www.cubepool.eu)
-* [SpeedPool](https://ella-speedpool.com)
+* [Ethash-coins.ru](http://ella.ethash-coins.ru) 🇷🇺
+* [CoinminerSpace](http://ella.coinminer.space) 🇩🇪
+* [AltpoolPro](http://ella.altpool.pro) 🇳🇱
+* [Cryptodig.ru](http://ella-solo.cryptodig.ru) 🇷🇺
+* [2miners](https://2miners.com) 🇺🇸
+* [Ellaismpool.com](http://ellaismpool.com) 🇺🇸
+* [MegaPool](http://megapool.io/ella) 🇫🇷
+* [Clona.ru](http://clona.ru) 🇷🇺
+* [BaikalMine](http://pool.baikalmine.com/en/ella/) 🇷🇺
+* [cryptopool.network](http://ella.cryptopool.network) 🇺🇸
+* [Ella Minerpool](http://ella.minerpool.net)  🇫🇷
+* [SoloPool](https://ella.solopool.org) 🇷🇺
+* [Comining](http://comining.io/) 🇺🇸
+* [DigiPools](http://ella.digipools.org) 🇺🇸
+* [Nevermining](http://ella.nevermining.org) 🇩🇪
+* [Upool.in](https://ella.upool.in) 🇺🇸
+* [Noobpool](http://ella.noobpool.com) 🇺🇸
+* [BekoPool](https://bekopool.io/) 🇺🇸
+* [CubePool](https://www.cubepool.eu) 🇩🇪
+* [SpeedPool](https://ella-speedpool.com) 🇵🇱
 
 
 </div>
