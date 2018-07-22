@@ -27,10 +27,10 @@ Below is the list of pools using this fork.
 
 |Pool| Country | Client | Version |
 |:-------|:------------:|-----------|------------:|
-| [Dev Mining Pool](https://pool.ellaism.org/)|:us: :de: |Parity|1.9.5|
-| [Ellaismpool.com](http://ellaismpool.com)   |:us:|    |    |
-| [Nonlocal](https://pool.nonlocal.ca)              |:us:|Parity|1.10.3|
-| [poolHUB](http://ella.poolhub.org/)               |:us:|    |    |
+| [Dev Mining Pool](https://pool.ellaism.org/)|🇺🇸 🇩🇪 |Parity|1.9.5|
+| [Ellaismpool.com](http://ellaismpool.com)   |🇺🇸|    |    |
+| [Nonlocal](https://pool.nonlocal.ca)              |🇺🇸|Parity|1.10.3|
+| [poolHUB](http://ella.poolhub.org/)               |🇺🇸|    |    |
 | [MyPool.Online](https://ella.mypool.online)  |      |Parity    | |
 | [SpeedPool](https://ella-speedpool.com)|🇵🇱|Parity|v1.10.8|
  
