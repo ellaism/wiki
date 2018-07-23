@@ -64,6 +64,7 @@ Contact core@ellaism.org or ping @ellaismer on [Discord](https://discord.ellaism
 * [BekoPool](https://bekopool.io/) 🇺🇸
 * [CubePool](https://www.cubepool.eu) 🇩🇪
 * [SpeedPool](https://ella-speedpool.com) 🇵🇱
+* [Arsmine](http://ella.arsmine.com) 🇹🇷
 
 
 </div>
