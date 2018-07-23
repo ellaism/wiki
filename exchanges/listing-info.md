@@ -9,45 +9,43 @@ This page will be populated with common questions asked in exchanges listing for
 > Ellaism
 
 * Coin Full Name
-Ellaism
+> Ellaism
 
 * Coin Symbol
-ELLA
+> ELLA
 
 * Website
-https://ellaism.org/
+> https://ellaism.org/
 
 * Email address:
-core@ellaism.rog, community@ellaism.org
+> core@ellaism.rog, community@ellaism.org
 
 * Current status of the project
-Active. A network upgrade is planned to happen at block number 2,000,000, for around August 2018. This adds Ethereum Byzantium features and enables WebAssembly scripting on Ellaism blockchain.
+> Active. A network upgrade is planned to happen at block number 2,000,000, for around August 2018. This adds Ethereum Byzantium features and enables WebAssembly scripting on Ellaism blockchain.
 
 * Rodmap
-https://wiki.ellaism.org/about/roadmap
+> https://wiki.ellaism.org/about/roadmap
 
 * Is the project open-source
-Yes
+> Yes
 
 * Link to GitHub repo
-https://github.com/ellaism/
+> https://github.com/ellaism/
 
 * Link to coinmarketcap.com for coin
-https://coinmarketcap.com/currencies/ellaism/
+> https://coinmarketcap.com/currencies/ellaism/
 
 * Total coin supply
-280.000.000
+> 280.000.000
 
 * Link to blockchain explorer
-https://explorer.ellaism.org/
+> https://explorer.ellaism.org/
 
 * Which exchange(s) is your coin currently trading on?
-See https://wiki.ellaism.org/exchanges
+> See https://wiki.ellaism.org/exchanges
 
 * Did your coin go through an ICO?
-No
+> No
 
 * Is your coin a security?
-No
-
-
+> No
