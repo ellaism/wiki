@@ -21,7 +21,7 @@ This page will be populated with common questions asked in exchanges listing for
 > core@ellaism.org community@ellaism.org
 
 * Current status of the project
-> Active. A network upgrade is planned to happen at block number 2,000,000, for around August 2018. This adds Ethereum Byzantium features and enables WebAssembly scripting on Ellaism blockchain.
+> Active. A network upgrade is planned to happen at block number 2,000,000, around August 3 2018. This adds Ethereum Byzantium features and enables WebAssembly scripting on Ellaism blockchain.
 
 * Rodmap
 > https://wiki.ellaism.org/about/roadmap
