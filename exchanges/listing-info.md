@@ -14,6 +14,9 @@ This page will be populated with common questions asked in exchanges listing for
 * Coin Symbol
 > ELLA
 
+* Logo
+> https://ellaism.org/images/logo.png
+
 * Number of decimals
 > 18
 
