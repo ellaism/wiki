@@ -27,7 +27,7 @@ This page will be populated with common questions asked in exchanges listing for
 > core@ellaism.org community@ellaism.org
 
 * Coin launch date
-> Block 1 was mined on Spetember 11 2017 at 11:41:43 UTC
+> Block 1 was mined on September 11 2017 at 11:41:43 UTC
 
 * Current status of the project
 > Active. A network upgrade is planned to happen at block number 2,000,000, around August 3 2018. This adds Ethereum Byzantium features and enables WebAssembly scripting on Ellaism blockchain.
