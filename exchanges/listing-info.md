@@ -8,6 +8,7 @@ This page will be populated with common questions asked in exchanges listing for
 * Project name
 Ellaism
 
+
 * Coin Full Name
 Ellaism
 
