@@ -6,7 +6,7 @@
 This page will be populated with common questions asked in exchanges listing forms
 
 * Project name
-Ellaism
+### Ellaism
 
 * Coin Full Name
 Ellaism
