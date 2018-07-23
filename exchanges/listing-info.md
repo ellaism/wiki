@@ -18,7 +18,7 @@ This page will be populated with common questions asked in exchanges listing for
 > https://ellaism.org/
 
 * Email address:
-> core@ellaism.rog, community@ellaism.org
+> core@ellaism.org, community@ellaism.org
 
 * Current status of the project
 > Active. A network upgrade is planned to happen at block number 2,000,000, for around August 2018. This adds Ethereum Byzantium features and enables WebAssembly scripting on Ellaism blockchain.
