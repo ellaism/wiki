@@ -214,7 +214,7 @@ The tokens repo will eventually be used by all wallets so it's a good idea to ad
 ## Air Drop!
 
 Included in this repo is a [python script](/give_away_tokens.py) that will allow you to send an air drop to a list of addresses in a text file.  The current
-[addresses.txt](/addresses.txt) file consists of 26K or so Ella addresses that had a balance over 1 as of July 10th, 2018.  Use this list, or replace it
+[addresses.txt](/uploads/tutorials/addresses.txt)file consists of 26K or so Ella addresses that had a balance over 1 as of July 10th, 2018.  Use this list, or replace it
 with your own.
 
 You'll then need to create a file named .env in the same directory where you run give_away_tokens.py.  Here is a sample of what it should look like:
