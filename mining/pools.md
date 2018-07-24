@@ -14,6 +14,7 @@
 | [Pool Sexy](http://ella.pool.sexy) | 2.5 | 0.25 |
 | [Nonlocal](https://pool.nonlocal.ca) | 100 | 1 |
 | [CoinGarden](http://ella.cgpools.io/) | 50 | 1 |
+| [SpeedPool](https://ella-speedpool.com/) | 10 | 0.1 |
 
 </div>
 
