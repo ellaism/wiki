@@ -30,7 +30,7 @@ Below is the list of pools using this fork.
 |:-------|:------------:|-----------|------------:|
 | [Dev Mining Pool](https://pool.ellaism.org/)|🇺🇸 🇩🇪 |Parity|1.10.6|
 | [Ellaismpool.com](http://ellaismpool.com)   |🇺🇸|    |    |
-| [Nonlocal](https://pool.nonlocal.ca)              |🇺🇸|Parity|1.10.3|
+| [Nonlocal](https://pool.nonlocal.ca)              |🇺🇸|Parity|1.10.6|
 | [poolHUB](http://ella.poolhub.org/)               |🇺🇸|    |    |
 | [MyPool.Online](https://ella.mypool.online)  |🇩🇪|Parity    | |
 | [SpeedPool](https://ella-speedpool.com)|🇵🇱 🇮🇳|Parity|v1.10.8|
