@@ -37,6 +37,7 @@ The following mining pools have upgraded their nodes with support of the network
 * [AcroDuck](https://ellapool.acroduck.de/)
 * [SpeedPool](https://ella-speedpool.com)
 * [Arsmine](http://ella.arsmine.com)
+* [Soyminero](http://ella.soyminero.es)
 
 
 ## Specifications
