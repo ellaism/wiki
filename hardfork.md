@@ -40,7 +40,7 @@ The following mining pools have upgraded their nodes with support of the network
 * [Soyminero](http://ella.soyminero.es)
 * [Noobpool](http://ella.noobpool.com)
 * [BaikalMine](http://pool.baikalmine.com/en/ella/)
-* [Ella Minerpool](http://ella.minerpool.net)
+* [Minerpool](http://ella.minerpool.net)
 
 
 
