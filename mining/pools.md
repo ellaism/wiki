@@ -12,7 +12,6 @@
 |---------------|---------------------------------:|----------------:|
 | [Dev Pool](https://pool.ellaism.org)  | 100 | 1 |
 | [Pool Sexy](http://ella.pool.sexy) | 2.5 | 0.25 |
-| [Outdoor Devs](https://pool.outdoordevs.com) (For low hash rates)| 100 | 1 |
 | [CoinGarden](http://ella.cgpools.io/) | 50 | 1 |
 | [SpeedPool](https://ella-speedpool.com/) | 10 | 0.1 |
 
@@ -30,7 +29,6 @@ Below is the list of pools using this fork.
 |:-------|:------------:|-----------|------------:|
 | [Dev Mining Pool](https://pool.ellaism.org/)|🇺🇸 🇩🇪 |Parity|1.10.6|
 | [Ellaismpool.com](http://ellaismpool.com)   |🇺🇸|    |    |
-| [Outdoor Devs](https://pool.outdoordevs.com) (For low hash rates)|🇺🇸|Parity|1.10.6|
 | [poolHUB](http://ella.poolhub.org/)               |🇺🇸|    |    |
 | [MyPool.Online](https://ella.mypool.online)  |🇩🇪|Parity    | |
 | [SpeedPool](https://ella-speedpool.com)|🇵🇱 🇮🇳|Parity|v1.10.8|
