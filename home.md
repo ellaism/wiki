@@ -46,5 +46,6 @@
 	- [Badges](media/badges)
 	- [Video and motion graphics](media/video-and-motion)
 - [Financial reports](financial-reports)
+- [Marketing](marketing)
 - [Tutorials](tutorials)
 	- [Create and Deploy Ellaism Tokens](tutorials/create-and-deploy-ellaism-tokens)
