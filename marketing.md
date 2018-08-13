@@ -46,6 +46,13 @@ Problem: Pointing at incorrect repo, makes project look like it has 0 activity.
 Update Request by: Steve Mulligan, Requested they change the repo to point at the website instead of go-ellaism.
 
 
+### Is this coin a scam
+
+https://isthiscoinascam.com/check/ellaism
+
+Problem: Not entered yet, still using old REPO data like they pulled it in from another site.
+
+
 ## Accurate
 
 
