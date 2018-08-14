@@ -102,3 +102,24 @@ We also log most of the moderation actions of our Discord server directly to the
 
 * *ELLA Ethusiasts* role changes: [0x69808D56a15A4465F898Fd61a8a54beb24788Eb0](https://explorer.ellaism.org/account/0x69808D56a15A4465F898Fd61a8a54beb24788Eb0)
 * *ELLA Regulars* role changes: [0x05d12A005524Db8791A25C61B884eAD293a12F2a](https://explorer.ellaism.org/account/0x05d12A005524Db8791A25C61B884eAD293a12F2a)
+
+# EllaBot
+```
+!help
+```
+
+EllaBot is a bot that has several useful functions for our community, such as: profit from mining, Ella price from coinmarketcap, on various stock exchanges, pools lists, members etc.
+
+# TipBot
+
+TipBot is a bot that allows discord users to send Ella to each other through discord channel. To start tipping you have to use ```!tip register``` and you have to deposit ELLA to your TipBot address first.
+```!tip_help```
+For example: ```!tip @limax 10```
+
+The user does not pay any fees for sending the tips among other users and for the withdrawal of funds on the external wallet.
+Gas fee pays TipBot only!
+You can use TipBot to pay another user for anything or for fun ;)
+
+If you want to donate to the TipBot, the address is [0x00b3231bafd09893deaabf9171ed055a8e33d567]
+
+Have a fun !
