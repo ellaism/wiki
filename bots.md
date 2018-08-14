@@ -113,13 +113,18 @@ EllaBot is a bot that has several useful functions for our community, such as: p
 # TipBot
 
 TipBot is a bot that allows discord users to send Ella to each other through discord channel. To start tipping you have to use ```!tip register``` and you have to deposit ELLA to your TipBot address first.
-```!tip_help```
-For example: ```!tip @limax 10```
+```
+!tip_help
+```
+For example:
+```
+!tip @limax 10
+```
 
 The user does not pay any fees for sending the tips among other users and for the withdrawal of funds on the external wallet.
 Gas fee pays TipBot only!
 You can use TipBot to pay another user for anything or for fun ;)
 
-If you want to donate to the TipBot, the address is [0x00b3231bafd09893deaabf9171ed055a8e33d567]
+If you want to donate to the TipBot, the address is [0x00b3231bafd09893deaabf9171ed055a8e33d567](https://explorer.ellaism.org/account/0x00b3231bafd09893deaabf9171ed055a8e33d567)
 
 Have a fun !
