@@ -30,9 +30,9 @@ This page will be populated with common questions asked in exchanges listing for
 > Block 1 was mined on September 11 2017 at 11:41:43 UTC
 
 * Current status of the project
-> Active. A network upgrade is planned to happen at block number 2,000,000, around August 3 2018. This adds Ethereum Byzantium features and enables WebAssembly scripting on Ellaism blockchain.
+> Active. The network upgraded at block number 2,000,000, August 3 2018. Ethereum Byzantium features and WebAssembly scripting are now enabled on Ellaism blockchain.
 
-* Rodmap
+* Roadmap
 > https://wiki.ellaism.org/about/roadmap
 
 * Is the project open-source
