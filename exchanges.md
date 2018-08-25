@@ -4,7 +4,7 @@
 
 * [Cryptopia](https://www.cryptopia.co.nz/Exchange?market=ELLA_BTC)
 * [Stocks Exchange](https://app.stocks.exchange/en/basic-trade/pair/BTC/ELLA)
-* [Cryptobroker](https://trade.cryptobroker.io/markets/ellabtc)
+* [Cryptobroker](https://trade.cryptobroker.io/markets/ellabtc)  ( Site overloaded, reports of very slow transfers)
 * [LDVBank](https://ldvbank.com/en-us/trading/)
 * [Bisq](https://bisq.network/)
 
