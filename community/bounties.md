@@ -15,6 +15,7 @@ This is a list of projects with potential bounties.  Currently there are no agre
 * New explorer (incurs monthly fee)
 * Dapp migration, looking for suggestions
 * Community Bounty system to let you donate/vote for projects
+* Ledger Nano S support
 
 ## Marketing Tasks
 * Binace Community Coin of the Month Application
