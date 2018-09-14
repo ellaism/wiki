@@ -16,6 +16,7 @@ This is a list of projects with potential bounties.  Currently there are no agre
 * Dapp migration, looking for suggestions
 * Community Bounty system to let you donate/vote for projects
 * Ledger Nano S support
+	* Ledger in MyEtherWallet
 * Trezor Support
 
 ## Marketing Tasks
