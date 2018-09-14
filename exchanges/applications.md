@@ -4,3 +4,4 @@
 # Exchange Listing Applications
 
 ## [Binance](/exchanges/applications/binance)
+Application for their community coin of the month
