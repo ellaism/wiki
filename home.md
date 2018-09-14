@@ -31,6 +31,7 @@
 - [Wallets](wallets)
 - [Exchanges](exchanges)
 	- [Listing info](exchanges/listing-info)
+	- [Applications](exchanges/applications)
 - [Media](media)
 	- [Logo](media/logo)
 	- [Badges](media/badges)
