@@ -3,4 +3,4 @@
 
 # Exchange Listing Applications
 
-[Binance](/exchanges/applications/binance)
+## [Binance](/exchanges/applications/binance)
