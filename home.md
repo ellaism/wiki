@@ -18,6 +18,7 @@
     - [Community Fund](community/community-fund)
     - [Swag Store](community/swag-store)
     - [Meetings](community/meetings)
+    - [Bounties](community/bounties)
 - [Dapps](dapps)
 - [Tokens](tokens)
 - [Testnet](testnet)
