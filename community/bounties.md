@@ -23,5 +23,6 @@ This is a list of projects with potential bounties.  Currently there are no agre
 
 ## Education
 * Tutorial for writing Rust smart contracts
+* Tutorial for writing WASM smart contracts in other languages
 * Tutorial for using ENS
 * Medium post about how to incorporate Ellaism into your course curriculum
