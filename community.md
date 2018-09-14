@@ -15,3 +15,4 @@ parts are managed by different community members.
 - [Community Fund](community/community-fund)
 - [Swag Store](community/swag-store)
 - [Meetings](community/meetings)
+- [Bounties](community/bounties)
