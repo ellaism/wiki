@@ -19,6 +19,7 @@
     - [Swag Store](community/swag-store)
     - [Meetings](community/meetings)
     - [Bounties](community/bounties)
+    - [Proposals](community/proposals)
 - [Dapps](dapps)
 - [Tokens](tokens)
 - [Testnet](testnet)
