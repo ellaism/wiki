@@ -18,6 +18,7 @@ This is a list of projects with potential bounties.  Currently there are no agre
 * Ledger Nano S support
 	* Ledger in MyEtherWallet
 * Trezor Support
+* Gas Price & Gas Limit in both our explorers see incorrect.  Checking TX status from mycrypto.com shows correct values for comparison.
 
 ## Marketing Tasks
 * Binace Community Coin of the Month Application
