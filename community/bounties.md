@@ -19,6 +19,7 @@ This is a list of projects with potential bounties.  Currently there are no agre
 	* Ledger in MyEtherWallet
 * Trezor Support
 * Gas Price & Gas Limit in main explorer might be incorrect.  Checking TX status from mycrypto.com shows correct values for comparison.  http://explorer.limax.ro/ show price in wei.
+* Discord Ella Trading Signals bot, report when large volumes or prices changes happen
 
 ## Marketing Tasks
 * Binace Community Coin of the Month Application
