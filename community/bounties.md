@@ -24,6 +24,7 @@ This is a list of projects with potential bounties.  Currently there are no agre
 ## Marketing Tasks
 * Binace Community Coin of the Month Application
 * Fix reported errors from marketing page on Wiki [Marketing](/marketing)
+* Increase number of Discord users
 
 ## Education
 * Tutorial for writing Rust smart contracts
