@@ -23,11 +23,16 @@ This is a list of projects with potential bounties.  Currently there are no agre
 
 ## Marketing Tasks
 * Binace Community Coin of the Month Application
-* Fix reported errors from marketing page on Wiki [Marketing](/marketing)
+* Fix reported errors from marketing page on Wiki [Marketing](/marketing), https://wiki.ellaism.org/community/swag-store
 * Increase number of Discord users
+* Tutorials bring more attention and involvement: parity video, multisig txt/video
+* Promoted tweets (@Magger suggested 2000 ELLA for 1 time thing)
+* Promotial work (@Magger from Discord suggested 6000 ELLA depending on how long and what is involed)
+* Community Manager Role (Start Meetings, post monthly updates etc)
 
 ## Education
 * Tutorial for writing Rust smart contracts
 * Tutorial for writing WASM smart contracts in other languages
 * Tutorial for using ENS
 * Medium post about how to incorporate Ellaism into your course curriculum
+* While the society has very little knowledge about the cryptosphere, need to educate the public about the basics of using crypto currency, to tell about the most known and widespread fraudulent schemes used to steal funds.
