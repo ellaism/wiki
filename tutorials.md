@@ -7,4 +7,4 @@
 [This tutorial](/tutorials/create-and-deploy-ellaism-tokens) will walk your through creating Ellaism ERC-20 tokens, adding them to mobile wallets and how to do an air drop.  The tutorial covers Solidy and Python Web3.
 
 # Ellaism OpenAlias Tutorial
-[This tutorial](/tutorials/ellaism-open-alias-howto) will explain how to create an OpenAlias DNS record for your domain so you can map an Ellaism address to a domain name or email address.  Send money to steve@outdoordevs.com instead of 0xF08d00694Ff9aDbE37960030fE622EdEa35Eb48F.
+[This tutorial](/tutorials/ellaism-openalias-howto) will explain how to create an OpenAlias DNS record for your domain so you can map an Ellaism address to a domain name or email address.  Send money to steve@outdoordevs.com instead of 0xF08d00694Ff9aDbE37960030fE622EdEa35Eb48F.
