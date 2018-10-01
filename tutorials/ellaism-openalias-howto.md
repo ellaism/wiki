@@ -58,7 +58,7 @@ Now you need to build your OpenAlias record. Replace the string below with your 
 
 **oa1:ella recipient_address=YOUR_ELLAISM_ADDRESS; recipient_name=OPTIONAL RECIPIENT NAME;**
 
-The recipient address should always be terminated with a semi-colon (;)  You can optionally add a recipient_name to your record. 
+The recipient address should always be terminated with a semi-colon. You can optionally add a recipient_name to your record.
 
 Copy/paste your OpenAlias record into the value field.
 
@@ -76,10 +76,13 @@ oa1:btc recipient_address=1KCPjz2W4v4NsAX2GysR3nP9CPpMADdDqR; recipient_name=Out
 If you want to allow people to send to steve@outdoordevs.com create the same TXT record but use steve in the name part of the DNS record.  OpenAlias clients will automatically convert the @ to a . and peform the lookup on steve.outdoordevs.com
 
 
-
 ## Developing
 
 There are no Ellaism clients I am aware of that use this yet, so setting this up is just for very, very early adopters. The mobile wallets and historical balance tool will support OpenAlias at some point. There are libraries for Rust, Python and Javascript at the bottom of this page if you are interested in adding OpenAlias support to your project. 
+
+### Resolution
+
+Not all DNS servers support DNSSEC.  When building an application that will support OpenAlias you need to perform DNS lookups on servers that you specify.  Use an established 3rd party library to verify the chain of trust is intact.
 
 ### DNSCrypt
 
@@ -87,7 +90,7 @@ The official OpenAlias spec uses DNSCrypt to prevent client lookups from leaking
 
 ### Chain of Trust
 
-Ellaism clients should verify the chain of trust is intact and force users to manually enter the hex addresses if the chain of trust can not be verified. If the chain of trust is valid using domain addresses is very safe. For extra piece of mind you can setup a script that will monitor your domain name resolves to the correct address and be alerted when it changes.
+Ellaism clients should verify the chain of trust is intact and force users to manually enter the hex addresses if the chain of trust can not be verified. If the chain of trust is valid using domain addresses is very safe. For extra piece of mind you can setup a script that will monitor your domain and be alerted to changes.
 
 ## Resources
 
