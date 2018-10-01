@@ -41,3 +41,4 @@
 - [Marketing](marketing)
 - [Tutorials](tutorials)
 	- [Create and Deploy Ellaism Tokens](tutorials/create-and-deploy-ellaism-tokens)
+	- [Using OpenAlias with Ellaism](tutorials/ellaism-openalias-howto)
