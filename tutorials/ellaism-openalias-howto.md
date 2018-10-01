@@ -73,7 +73,7 @@ oa1:btc recipient_address=1KCPjz2W4v4NsAX2GysR3nP9CPpMADdDqR; recipient_name=Out
 
 ### Using email addresses
 
-If you want to allow people to send to steve@outdoordevs.com create the same TXT record but use steve in the name part of the DNS record.  OpenAlias clients will automatically convert the @ to a . and peform the lookup on steve.outdoordevs.com
+If you want to allow people to send to steve@outdoordevs.com create the same TXT record but use steve in the name part of the DNS record.  OpenAlias clients will automatically convert the @ to a . and peform the lookup on <a href="https://steve.outdoordevs.com">steve.outdoordevs.com</a>
 
 
 ## Developing
