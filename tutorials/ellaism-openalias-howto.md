@@ -5,7 +5,7 @@
 
 ## What is OpenAlias?
 
-<a href="https://openalias.org">OpenAlias</a> is a standard that was created and is currently maintained by the <a href="https://forum.getmonero.org/">Monero dev team</a>. Software that supports OpenAlias allows you to use domain style addressing. It's easier to remember outdoordevs.com than it is to remember 0xF08d00694Ff9aDbE37960030fE622EdEa35Eb48F.
+<a href="https://openalias.org">OpenAlias</a> is a standard that was created and is currently maintained by the <a href="https://forum.getmonero.org/">Monero dev team</a>. Software that supports OpenAlias allows you to use domain style addressing. It's easier to remember <a href="https://outdoordevs.com">outdoordevs.com</a> than it is to remember 0xF08d00694Ff9aDbE37960030fE622EdEa35Eb48F.
 
 
 ## What do I need?
