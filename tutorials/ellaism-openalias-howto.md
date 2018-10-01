@@ -24,22 +24,45 @@ A DNS provider like <a href="https://www.cloudflare.com/">Cloudflare</a> makes i
 
 ### Step 1 - Enable DNSSEC
 
-With CloudFlare you can enable DNSSEC with 1 click. Click on the DNS tab and scroll down to the bottom of the page. When you enable DNSSEC you will be given a public key and some other settings that will need to be applied to your registrar.
+With Cloudflare you can enable DNSSEC with 1 click. Click on the DNS tab and scroll down to the bottom of the page. 
+
+![Step 1](/uploads/tutorials/step-1.png "Step 1")
+
+Click on Enable DNSSEC.
+
+![Step 2](/uploads/tutorials/step-2.png "Step 2")
+
+You will be given a public key and some other settings that will need to be applied to your registrar.
+
+![Step 3](/uploads/tutorials/step-3.png "Step 3")
 
 ### Step 2 - Configure the registrar
  
 With Amazon Route 53, click on Registered Domains then domain that you want to edit, then click on Manage Keys in the bottom right.
 
-For Cloudflare, choose 257 - KSK as the Key type. Set the algorithm to 13 - ECDSAAP256SHA256 and paste your public key from the Cloudflare page. Other registrars might require slightly different settings.  To make matters more complicated, not all registrars support all algorithms so your DNS provider might not be compatible with your registrar.  This is why I recommend Amazon Route 53 in conjunction with Cloudflare as it is very easy to setup with this combination.
+![Step 4](/uploads/tutorials/step-4.png "Step 4")
+
+For Cloudflare, choose 257 - KSK as the Key type. Set the algorithm to 13 - ECDSAAP256SHA256 and paste your public key from the Cloudflare page. 
+
+![Step 5](/uploads/tutorials/step-5.png "Step 5")
+
+Other registrars might require slightly different settings.  To make matters more complicated, not all registrars support all algorithms so your DNS provider might not be compatible with your registrar.  The combination of Amazon Route 53 in conjunction with Cloudflare has been very reliable.
 
 ### Step 3 - Create TXT record for your address
 
-You need to add a TXT record to DNS record for your domain:
+You need to add a TXT record to DNS record for your domain.  On the DNS tab in Cloudflare, change the record type to TXT and enter an @ symbol into the **Name** field.  Then click on **Click to configure**
 
-oa1:ella recipient_address=0xF08d00694Ff9aDbE37960030fE622EdEa35Eb48F; recipient_name=Outdoor Devs;
+![Step 6](/uploads/tutorials/step-6.png "Step 6")
 
-The record must begin with oa1: followed by the symbol of the currency, in this case ella. recipient_address is your Ellaism address.  recipient_name is optional and might not be used by all clients that implement OpenAlias.
+Now you need to build your OpenAlias record. Replace the string below with your Ellaism address.
 
+**oa1:ella recipient_address=YOUR_ELLAISM_ADDRESS; recipient_name=OPTIONAL RECIPIENT NAME;**
+
+The recipient address should always be terminated with a semi-colon (;)  You can optionally add a recipient_name to your record. 
+
+Copy/paste your OpenAlias record into the value field.
+
+![Step 7](/uploads/tutorials/step-7.png "Step 7")
 
 ### Using other currencies
 
