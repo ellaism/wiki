@@ -5,7 +5,7 @@
 
 ## Primary Explorer
 
-https://explorer.ellism.org
+https://explorer.ellaism.org
 
 This explorer speaks directly to the RPC endpoint to ensure your results are accurate.  It's proximity to the main RPC end point makes this the most reliable way to check recent activity on the Ellaism network.  The trade off for this accuracy is using this explorer is very resource intensive when making queries over many days.  For this reason, we ask for a small donation if you want to see more than 24 hours of transactions.
 
