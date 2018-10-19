@@ -14,7 +14,7 @@ To unlock the all transactions, please send a small amount of ELLA to [0x4aaad87
 ## Secondary Explorer
 
 https://explorer2.ellaism.org
-https://limax-explorer.outdoordevs.com    (DNSSec, secondary domain, explorer not affliated with Outdoor Devs)
+https://limax-explorer.outdoordevs.com    ( secondary domain, explorer not hosted by Outdoor Devs)
 
 
 This explorer is hosted by Limax.  It is faster and without any history constraints because it continually stores the chain updates to a database which is faster to read.  Results may not be as accurate as the primary explorer and you may need to ask @limax in Discord to give it a kick if it stops responding.
