@@ -33,6 +33,7 @@
 - [Exchanges](exchanges)
 	- [Listing info](exchanges/listing-info)
 	- [Applications](exchanges/applications)
+- [Explorers](explorers)
 - [Media](media)
 	- [Logo](media/logo)
 	- [Badges](media/badges)
