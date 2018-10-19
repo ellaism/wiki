@@ -22,7 +22,9 @@ This explorer is hosted by Limax.  It is faster and without any history constrai
 
 ## API End Points
 
-The API end points that we use for Trust Wallet and Lunary Ethereum Wallet are all public and can be used by other developers.  They are however without documentation at this stage.  You can check the [trust-ray repo](https://github.com/ellaism/trust-ray/blob/master/src/routes/ApiRoutes.ts) if you want to read the code yourself.   Ask @Steve in Discord for more information.  Steve has added endpoints in the past for integration with other wallets.
+The API end points that we use for Trust Wallet and Lunary Ethereum Wallet are all public and can be used by other developers.  They are however without documentation at this stage.  You can check the [trust-ray repo](https://github.com/ellaism/trust-ray/blob/master/src/routes/ApiRoutes.ts) if you want to read the code yourself.   Ask @Steve in Discord for more information.  
+
+Steve has added endpoints in the past by request.  Feel free to ask him for anything you need.
 
 Example:  This endpoint was added by request for @Cryptominer   https://trustray.outdoordevs.com/raw_balance?address=
 
