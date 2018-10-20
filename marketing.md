@@ -10,6 +10,13 @@ Sites that aggregate news or prices about Ellaism.  Add to this list as new site
 
 In this section be sure to include the site URL and the last time an update was requested.
 
+
+### Token Insights
+
+https://tokeninsight.com/pandect/index?cid=2632&symbol=ELLA
+
+Update Request by: None
+
 ### Coin Gecko
 
 https://www.coingecko.com/en/coins/ellaism
