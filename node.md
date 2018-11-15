@@ -20,7 +20,7 @@ Mac
 Code:
 brew install node
 
-The rest of the commands should be run in a command window, terminal, or shell, and should be the same for all platforms (linux users might need to prepend some of these with 'sudo')
+*The rest of the commands should be run in a command window, terminal, or shell, and should be the same for all platforms (linux users might need to prepend some of these with 'sudo')*
 
 **3. Install pm2**
 Code:
@@ -30,4 +30,4 @@ npm install -g pm2
 https://github.com/ellaism/shell/releases
    Start Ellaism Shell
 
-**5. Dowlound** ellaism-net-intelligence-api[Ellaism Net Intelligence Api](/uploads/ellaism-net-intelligence-api.zip "Ellaism Net Intelligence Api")
+**5. Dowlound** [Ellaism Net Intelligence Api](/uploads/ellaism-net-intelligence-api.zip "Ellaism Net Intelligence Api")
