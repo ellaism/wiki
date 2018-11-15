@@ -1,5 +1,8 @@
+![Logo](/uploads/logo.png "Logo"){.pagelogo}
 <!-- TITLE: Node -->
-<!-- SUBTITLE: Setup and connection -->                                                                                                                                           
+<!-- SUBTITLE: Ellaism - A stable network with no premine and no dev fees -->
+
+# Setup and connection
                                                                                                                                                                                                                       
   **1. Install Git**
 Windows: https://git-scm.com/download/win (default settings during install should be fine)   
