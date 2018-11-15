@@ -1,3 +1,3 @@
 <!-- TITLE: Node -->
-<!-- SUBTITLE: A quick summary of Node -->
+<!-- SUBTITLE: Setup and connection -->
 
