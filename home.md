@@ -26,7 +26,7 @@
 - [Bots](bots)
 - [Clients](clients)
 	- [Parity](clients/parity)
-	- [Node](node)
+- [Node](node)
 - [Mining](mining)
     - [Solo mining](mining/solo-mining)
     - [Pools](mining/pools)
