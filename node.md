@@ -67,11 +67,11 @@ git clone https://github.com/ellaism/ellaism-net-intelligence-api.git
 cd ellaism-net-intelligence-api
    *Code:*
 npm install
-**9. start the stats monitor**
+**9. Start the stats monitor**
    *Code:*
 pm2 start app.json
 
-**10. check your status**
+**10. Check your status**
    *Code:*
 pm2 show 0
    *Code:*
