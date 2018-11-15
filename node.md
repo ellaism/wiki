@@ -7,17 +7,14 @@
   **1. Install Git**
 Windows: https://git-scm.com/download/win (default settings during install should be fine)   
 Linux:
-   *Code:*
-sudo apt-get install git
+``` sudo apt-get install git ```
 Mac:
-   *Code:*
-brew install git
+``` brew install git ```
 
 **2. Install NodeJS**
 Windows: https://nodejs.org/en/download/current/
 Linux:
-   *Code:*
-sudo apt-get install node
+``` sudo apt-get install node ```
 (or nodejs)
 Mac
    *Code:*
