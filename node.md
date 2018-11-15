@@ -11,29 +11,26 @@ Linux:
 Mac:
 ``` brew install git ```
 
-**2. Install NodeJS**
+* Install NodeJS
 Windows: https://nodejs.org/en/download/current/
 Linux:
 ``` sudo apt-get install node ```
 (or nodejs)
 Mac
-   *Code:*
-brew install node
+``` brew install node ```
 
-*The rest of the commands should be run in a command window, terminal, or shell, and should be the same for all platforms (linux users might need to prepend some of these with 'sudo')*
+The rest of the commands should be run in a command window, terminal, or shell, and should be the same for all platforms (linux users might need to prepend some of these with 'sudo')*
 
-**3. Install pm2**
-   *Code:*
-npm install -g pm2
+* Install pm2
+``` npm install -g pm2 ```
 
-**4. Install Parity**
+* Install Parity
 https://github.com/ellaism/shell/releases       and  Start Ellaism Shell
 
-**5. Dowlound** [Ellaism Net Intelligence Api](/uploads/ellaism-net-intelligence-api.zip "Ellaism Net Intelligence Api")
+* Dowlound [Ellaism Net Intelligence Api](/uploads/ellaism-net-intelligence-api.zip "Ellaism Net Intelligence Api")
 
-**6. Edit  the** *app.json*  file in the *ellaism-net-intelligence-api*  folder, and set the **INSTANCE_NAME** a unique name
-   *Code:*
-[
+* Edit  the *app.json*  file in the *ellaism-net-intelligence-api*  folder, and set the **INSTANCE_NAME** a unique name
+```[
   {
     "name"              : "node-app",
     "script"            : "app.js",
@@ -57,25 +54,24 @@ https://github.com/ellaism/shell/releases       and  Start Ellaism Shell
     }
   }
 ]
-**7. Copy the folder** *"ellaism-net-intelligence-api"* in C: \ Windows \ System32
+```
+* Copy the folder *"ellaism-net-intelligence-api"* in C: \ Windows \ System32
 
-**8. Get the stats project**
+* Get the stats project
 open a new command window
-   *Code:*
-git clone https://github.com/ellaism/ellaism-net-intelligence-api.git
-   *Code:*
+```git clone https://github.com/ellaism/ellaism-net-intelligence-api.git 
 cd ellaism-net-intelligence-api
-   *Code:*
 npm install
-**9. Start the stats monitor**
-   *Code:*
-pm2 start app.json
+```
 
-**10. Check your status**
-   *Code:*
+* Start the stats monitor
+``` pm2 start app.json ```
+
+* Check your status
+```
 pm2 show 0
-   *Code:*
 pm2 logs
+```
     Check the work of the ***NODE*** here     https://stats.ellaism.org/
   If you have any questions, please contact me PM @Alexander in the channel Discord 
 https://discord.gg/KUChqm2
