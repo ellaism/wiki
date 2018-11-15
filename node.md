@@ -1,4 +1,4 @@
-<!-- TITLE: Node -->
+![Logo](/uploads/logo.png "Logo")<!-- TITLE: Node -->
 <!-- SUBTITLE: Setup and connection -->
 
   **1. Install Git**
