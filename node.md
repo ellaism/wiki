@@ -26,7 +26,7 @@ brew install node
 Code:
 npm install -g pm2
 
-**4. Install Parity **
+**4. Install Parity**
 https://github.com/ellaism/shell/releases       and  Start Ellaism Shell
 
 **5. Dowlound** [Ellaism Net Intelligence Api](/uploads/ellaism-net-intelligence-api.zip "Ellaism Net Intelligence Api")
