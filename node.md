@@ -1,6 +1,6 @@
-![Logo](/uploads/logo.png "Logo")<!-- TITLE: Node -->
-<!-- SUBTITLE: Setup and connection -->
-
+<!-- TITLE: Node -->
+<!-- SUBTITLE: Setup and connection -->                                                                                                                                           
+                                                                                                                                                                                                                         ![Logo](/uploads/logo.png "Logo")
   **1. Install Git**
 Windows: https://git-scm.com/download/win (default settings during install should be fine)
 Linux:
