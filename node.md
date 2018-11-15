@@ -6,23 +6,37 @@
                                                                                                                                                                                                                       
   * Install Git
 Windows: https://git-scm.com/download/win (default settings during install should be fine)   
+
 Linux:
-``` sudo apt-get install git ```
+```
+sudo apt-get install git
+```
+
 Mac:
-``` brew install git ```
+```
+brew install git
+```
 
 * Install NodeJS
 Windows: https://nodejs.org/en/download/current/
+
 Linux:
-``` sudo apt-get install node ```
+```
+sudo apt-get install node
+```
 (or nodejs)
+
 Mac
-``` brew install node ```
+```
+brew install node
+```
 
 The rest of the commands should be run in a command window, terminal, or shell, and should be the same for all platforms (linux users might need to prepend some of these with 'sudo')*
 
 * Install pm2
-``` npm install -g pm2 ```
+```
+npm install -g pm2
+```
 
 * Install Parity
 https://github.com/ellaism/shell/releases       and  Start Ellaism Shell
