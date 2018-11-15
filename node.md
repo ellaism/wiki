@@ -79,7 +79,9 @@ npm install
 ```
 
 * Start the stats monitor
-``` pm2 start app.json ```
+```
+pm2 start app.json
+```
 
 * Check your status
 ```
