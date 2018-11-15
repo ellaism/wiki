@@ -2,7 +2,7 @@
 <!-- SUBTITLE: Setup and connection -->                                                                                                                                           
                                                                                                                                                                                                                       
   **1. Install Git**
-Windows: https://git-scm.com/download/win (default settings during install should be fine)   ![Logo](/uploads/logo.png "Logo")
+Windows: https://git-scm.com/download/win (default settings during install should be fine)   
 Linux:
    *Code:*
 sudo apt-get install git
@@ -78,4 +78,4 @@ pm2 show 0
 pm2 logs
     Check the work of the ***NODE*** here     https://stats.ellaism.org/
   If you have any questions, please contact me PM @Alexander in the channel Discord 
-https://discord.gg/KUChqm2
+https://discord.gg/KUChqm2![Logo](/uploads/logo.png "Logo")
