@@ -4,7 +4,7 @@
 
 # Setup and connection
                                                                                                                                                                                                                       
-  **1. Install Git**
+  * Install Git
 Windows: https://git-scm.com/download/win (default settings during install should be fine)   
 Linux:
 ``` sudo apt-get install git ```
