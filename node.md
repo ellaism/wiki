@@ -78,4 +78,4 @@ pm2 show 0
 pm2 logs
     Check the work of the ***NODE*** here     https://stats.ellaism.org/
   If you have any questions, please contact me PM @Alexander in the channel Discord 
-https://discord.gg/KUChqm2![Logo]
+https://discord.gg/KUChqm2
