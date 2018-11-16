@@ -8,3 +8,6 @@
 
 # Ellaism OpenAlias Tutorial
 [This tutorial](/tutorials/ellaism-openalias-howto) will explain how to create an OpenAlias DNS record for your domain so you can map an Ellaism address to a domain name or email address.  Send money to steve@outdoordevs.com instead of 0xF08d00694Ff9aDbE37960030fE622EdEa35Eb48F.
+
+# Setup an Ellaism node
+[This tutorial](/node#setup-and-connection)
