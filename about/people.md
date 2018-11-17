@@ -19,7 +19,8 @@ We would also like to thank all contributors of the Ellaism project.
 
 Below are community members leading the current marketing/operation efforts. If you want to help in Ellaism development, consider joining one of our current working groups, or create and lead a new working group. All information on this can be found in our Discord server.
 
-* **"towd"**: Leading our current marketing efforts, and helping to manage the Twitter accounts.
+* **"Afex"**: Leading our current marketing efforts, and helping to manage the Twitter accounts.
+* **"Alexander"** Leading our current marketing efforts
 * **"limax"**: Leading the August hard-fork communications.
 * **Denis Vantur**: Leading the exchange listing effort.
 
