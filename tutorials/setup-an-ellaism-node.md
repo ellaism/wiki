@@ -39,7 +39,7 @@ npm install -g pm2
 ```
 
 * Install Parity
-https://github.com/ellaism/shell/releases       and  Start Ellaism Shell
+https://github.com/Parity-JS/shell/releases     and  Start Ellaism Shell
 
 * Dowlound [Ellaism Net Intelligence Api](/uploads/ellaism-net-intelligence-api.zip "Ellaism Net Intelligence Api")
 
