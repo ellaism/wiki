@@ -1,5 +1,5 @@
-<!-- TITLE: Openalias Intro -->
-<!-- SUBTITLE: A quick summary of Openalias Intro -->
+<!-- TITLE: OpenAlias Introduction -->
+<!-- SUBTITLE: A brief introduction to OpenAlias -->
 
 ## Introduction
 
