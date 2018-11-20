@@ -11,8 +11,8 @@ The standard was created and is currently maintained by the [Monero dev team](ht
 
 If you have your own domain name you can setup OpenAlias records on it in a few easy steps.
 
-1. [Make sure your domain has DNSSec enabled](tutorials/openalias-setup-domain).
-2. [Create your OpenAlias records](tutorials/openalias-create-record).
+1. [Make sure your domain has DNSSec enabled](/tutorials/openalias-setup-domain).
+2. [Create your OpenAlias records](/tutorials/openalias-create-record).
 3. [Test your OpenAlias records](https://oat.outdoordevs.com/).
 
 ## Current Issues
