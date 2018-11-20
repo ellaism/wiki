@@ -17,7 +17,7 @@ If you have your own domain name you can setup OpenAlias records on it in a few 
 
 ## Current Issues
 
-There a a few issues that make it difficult to setup OpenAlias right now.  The Ellaism OpenAlias Rest Api can help with these.
+There a a few issues that make it difficult to setup OpenAlias right now.  The [Ellaism OpenAlias Rest Api](/tutorials/openalias-rest) can help with these.
 
 1. DNSSec is required and it's not universal yet.
 2. Not a lot of services support it because unless your machine is resolving against DNS servers that use DNSSec it won't work in a browser.
