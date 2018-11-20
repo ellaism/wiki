@@ -7,7 +7,7 @@
 
 Use the [OpenAlias Record Builder](https://orb.outdoordevs.com/) to create your OpenAlias Records.  
 
-![ORB](/uploads/tutorials/orb.png "The ORB")
+![Orb](/uploads/tutorials/orb.png "Orb")
 
 Choose a currency and enter your crypto address in the recipient address field. For Ethereum based currencies, you should also fill out the recipient_name and address_signature fields. The Signing Tool will use MetaMask to sign a message for you.  The message to sign should be the fully qualified domain that this record is for. eg: outdoordevs.com
 
