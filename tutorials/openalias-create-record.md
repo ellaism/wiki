@@ -5,18 +5,22 @@
 
 ### ORB - OpenAlias Record Builder
 
-Use the [OpenAlias Record Builder](https://orb.outdoordevs.com/) to create your OpenAlias Records.  Choose a currency and enter your crypto address in the recipient address field. For Ethereum based currencies, Ellaism also recommends filling out the recipient name field and use MetaMask and use the Signing Tool to sign the address_signature field.
+Use the [OpenAlias Record Builder](https://orb.outdoordevs.com/) to create your OpenAlias Records.  
 
-On the DNS tab in Cloudflare, change the record type to TXT and enter an @ symbol into the **Name** field.  Then click on **Click to configure**
+![ORB](/uploads/tutorials/orb.png "The ORB")
 
-![Step 1](/uploads/tutorials/step-6.png "Step 1")
+Choose a currency and enter your crypto address in the recipient address field. For Ethereum based currencies, you should also fill out the recipient_name and address_signature fields. The Signing Tool will use MetaMask to sign a message for you.  The message to sign should be the fully qualified domain that this record is for. eg: outdoordevs.com
+
+On the DNS tab in Cloudflare, change the record type to TXT and enter your domain name into the **Name** field.  Then click on **Click to configure**
+
+![Create TXT Record](/uploads/tutorials/step-6.png "Create TXT Record")
 
 Copy/paste your OpenAlias record from the ORB into the value field.
 
-![Step 2](/uploads/tutorials/step-7.png "Step 2")
+![Copy/Pasta](/uploads/tutorials/step-7.png "Copy/Pasta")
 
+**Don't forget to click "Add Record" after you are done.**
 
-Don't forget to click "Add Record" after you are done.
 
 ### Using other currencies
 
@@ -29,7 +33,9 @@ Just make sure you click "Add Record" in between each currency that you add.  Yo
 
 ### Using email addresses
 
-If you want to allow people to send to steve@outdoordevs.com create the same TXT record but use steve in the name part of the DNS record.  OpenAlias clients will automatically convert the @ to a . and peform the lookup on <a href="https://steve.outdoordevs.com">steve.outdoordevs.com</a>
+If you wanted to setup an email address instead, steve@outdoordevs.com for instance, OpenAlias clients will automatically convert the @ from the email address into a dot, and then peform the lookup on <a href="https://steve.outdoordevs.com">steve.outdoordevs.com</a>
+
+So, you can create another TXT record but use **steve** in the name field instead of the domain name.  In this case, steve is being created a "subdomain" of outdoordevs.com.
 
 
 ### Additional settings for TXT records
