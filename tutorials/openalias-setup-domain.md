@@ -41,4 +41,4 @@ For Cloudflare, choose 257 - KSK as the Key type. Set the algorithm to 13 - ECDS
 
 Other registrars might require slightly different settings.  To make matters more complicated, not all registrars support all algorithms so your DNS provider might not be compatible with your registrar.  The combination of Amazon Route 53 in conjunction with Cloudflare has been very reliable.
 
-That's it.  Now you can start creating OpenAlias Records and adding them to this domain.
+That's it.  Now you can start [creating OpenAlias Records](/tutorials/openalias-create-record) and adding them to this domain.
