@@ -48,4 +48,4 @@
 	- [Creating an OpenAlias Record](tutorials/openalias-create-record)
 	- [Developing OpenAlias on Ellaism](tutorials/openalias-ellaism)
 	- [OpenAlias Rest Api](tutorials/openalias-rest)
-	- [Using OpenAlias with Ellaism](tutorials/ellaism-openalias-howto)
+
