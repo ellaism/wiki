@@ -15,11 +15,16 @@ Copy/paste your OpenAlias record from the ORB into the value field.
 
 ![Step 2](/uploads/tutorials/step-7.png "Step 2")
 
+
+Don't forget to click "Add Record" after you are done.
+
 ### Using other currencies
 
 You can add as many of these TXT records as you like for other currencies.
 
 oa1:btc recipient_address=1KCPjz2W4v4NsAX2GysR3nP9CPpMADdDqR; recipient_name=Outdoor Devs;
+
+Just make sure you click "Add Record" in between each currency that you add.  You need a separate TXT record for each currency.
 
 
 ### Using email addresses
