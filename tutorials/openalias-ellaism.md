@@ -7,7 +7,7 @@ There are no Ellaism clients I am aware of that use this yet, so setting this up
 
 ### Browser Support
 
-Since it performing OpenAlias looksups from a browser require something like DNS-over-http and this might not be reliable until you can gurantee someone is using DNSSec enabled DNS servers, Ellaism provides a REST api to perform OpenAlias lookups.
+Since performing OpenAlias looksups from a browser require something like DNS-over-http and this might not be reliable until you can gurantee someone is using DNSSec enabled DNS servers, Ellaism provides a REST api to perform OpenAlias lookups.
 
 https://oar.outdoordevs.com/lookup
 
@@ -54,11 +54,11 @@ The standard way to sign Ellaism records (and other Etherum based networks) is w
 
 ### Resolution
 
-Not all DNS servers support DNSSEC.  When building an application that will support OpenAlias you need to perform DNS lookups on servers that you specify.  Use an established 3rd party library to verify the chain of trust is intact.
+Not all DNS servers support DNSSEC.  When building an application that will support OpenAlias you need to perform DNS lookups on specific DNSSec enabled servers.  Use an established 3rd party library to verify the chain of trust is intact.
 
 ### DNSCrypt
 
-The official OpenAlias spec uses DNSCrypt to prevent client lookups from leaking. They recommend routing all DNS lookups through a proxy to a small subset of servers that promise not to log anything. Since Ellaism is a public ledger without any privacy features at the network level, Ellaism OpenAlias clients are not expected to follow this part of the specification.  If you are not using DNSCrypt this fact should be clearly visible so that users are fully informed.
+The official OpenAlias spec uses DNSCrypt to prevent client lookups from leaking. They recommend routing all DNS lookups through a proxy to a small subset of servers that promise not to log anything. Since Ellaism is a public ledger without any privacy features at the network level, Ellaism OpenAlias clients are not expected to follow this part of the specification.  If you are not using DNSCrypt this fact should be clearly visible so that users are fully informed.  The Ellaism REST Api does not use DNSCrypt rather it uses Google DNS-over-HTTP with Google DNS servers.
 
 ### Chain of Trust
 
