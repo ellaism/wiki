@@ -7,7 +7,7 @@ There are no Ellaism clients I am aware of that use this yet, so setting this up
 
 ### Browser Support
 
-Since performing OpenAlias looksups from a browser require something like DNS-over-http and this might not be reliable until you can gurantee someone is using DNSSec enabled DNS servers, Ellaism provides a REST api to perform OpenAlias lookups.
+Since performing OpenAlias looksups from a browser require something like DNS-over-http and this might not be reliable until you can guarantee someone is using DNSSec enabled DNS servers, Ellaism provides a REST api to perform OpenAlias lookups.
 
 https://oar.outdoordevs.com/lookup
 
