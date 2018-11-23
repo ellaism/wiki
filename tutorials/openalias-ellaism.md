@@ -9,7 +9,7 @@ There are no Ellaism clients I am aware of that use this yet, so setting this up
 
 Since performing OpenAlias looksups from a browser require something like DNS-over-http and this might not be reliable until you can guarantee someone is using DNSSec enabled DNS servers, Ellaism provides a REST api to perform OpenAlias lookups.
 
-Check out the documentation for the Ellaism OpenAlias REST Api [here](https://wiki.ellaism.org/tutorials/openalias-rest).
+Check out the documentation for the Ellaism OpenAlias REST Api [here](/tutorials/openalias-rest).
 
 ### Address Signature
 
