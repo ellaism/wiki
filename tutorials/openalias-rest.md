@@ -5,6 +5,8 @@
 
 The OpenAlias Rest Api (OAR) seeks to allow web application to take advantage of OpenAlias while we wait for DNSSec to be implemented everywhere.
 
+[Get the code](https://github.com/stevemulligan/oar)
+
 ## Performing a Lookup
 
 There is one main endpoint to perform lookups using an HTTP POST request:
