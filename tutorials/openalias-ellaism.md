@@ -9,44 +9,7 @@ There are no Ellaism clients I am aware of that use this yet, so setting this up
 
 Since performing OpenAlias looksups from a browser require something like DNS-over-http and this might not be reliable until you can guarantee someone is using DNSSec enabled DNS servers, Ellaism provides a REST api to perform OpenAlias lookups.
 
-https://oar.outdoordevs.com/lookup
-
-Submit an HTTP POST request to the above endpoint.  Use application/x-www-form-urlencoded form encoding with a single parameter named **address** that holds the domain name you want to lookup.
-
-The response will be a JSON object. 
-
-Response Object
-{
-   payload: OBJECT,
-	 signature: STRING
-}
-
-The signature field is signed with the servers private key.  It can be validated with a certificate in your client application.  The message to validate is the contents of the payload object converted to a JSON string with JSON.stringify()
-
-
-Payload Object
-{
-  status: INTEGER, // 0 means lookup was ok, otherwise there was an error
-	message: STRING, // if there was an error this will explain what happened
-	domain: STRING, // domain name that you are looking up
-	googledns: BOOLEAN, // must be true for result to be considered valid
-	dnssec_valid: BOOLEAN, // must be true otherwise DNSSec not working
-	records: ARRAY, // array of OpenAlias records
-}
-
-OpenAlias Record Object
-{
-  currency: STRING, // symbol of the currency in the record
-	domain: STRING, // domain name that you are looking up
-	txt: STRING, // raw TXT record in the DNS entry
-	properties: ARRAY, // array of OpenAlias Properties Objects
-}
-
-OpenAlias Properties Object
-{
-  STRING: STRING // key value pair to represent each property of an OpenAlias record
-}
-
+Check out the documentation for the Ellaism OpenAlias REST Api [here](https://wiki.ellaism.org/tutorials/openalias-rest).
 
 ### Address Signature
 
