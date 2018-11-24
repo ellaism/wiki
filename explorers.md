@@ -20,6 +20,13 @@ https://limax-explorer.outdoordevs.com    ( secondary domain, explorer not hoste
 This explorer is hosted by Limax.  It is faster and without any history constraints because it continually stores the chain updates to a database which is faster to read.  Results may not be as accurate as the primary explorer and you may need to ask @limax in Discord to give it a kick if it stops responding.
 
 
+## Ellaism Historical Balance Tool
+
+https://bellance.outdoordevs.com/
+
+Visit it every day to make sure you mining rig is performing as expected.  Export data to CSV or chart your difficulty vs coins earned.  Go back in time and see what your balance was on any given day.  Check your rank on the Ellaism rich list even if you are not in the top 100.
+
+
 ## API End Points
 
 The API end points that we use for Trust Wallet and Lunary Ethereum Wallet are all public and can be used by other developers.  They are however without documentation at this stage.  You can check the [trust-ray repo](https://github.com/ellaism/trust-ray/blob/master/src/routes/ApiRoutes.ts) if you want to read the code yourself.   Ask @Steve in Discord for more information.  
