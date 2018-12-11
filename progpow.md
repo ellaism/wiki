@@ -13,7 +13,7 @@ cd parity-ethereum
 git checkout andre/progpow
 ```
 
-Then download `mtihani.json` and run the program:
+Then download [mtihani.json](https://gist.githubusercontent.com/ellaismer/62a8cd70b67c7c938388716e5addb4b6/raw/f7fab7a225e2f414304cb9ca72ec52155be75cb1/mtihani.json) and run the program:
 
 ```bash
 cargo run --release -- --chain mtihani.json
