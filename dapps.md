@@ -8,4 +8,4 @@ The following dapps are currently deployed in the Ellaism network:
 * [BTC Relay](http://ellaism.org/btcrelay/)
 * [Hands on a Hard Coin](https://handsonahardcoin.com/?network=ella)
 * [Prove It](https://proveit.outdoordevs.com)
-* [Kryptium](https://kryptium.io)
+* [Kryptium](https://kryptium.io)  * Currently only binaries are provided, please use a VM to run them.
