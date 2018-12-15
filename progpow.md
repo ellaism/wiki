@@ -20,7 +20,9 @@ cargo run --release -- --chain mtihani.json
 ```
 
 
-## Mining
+Report any issues, give feedback, get support in the #umbrella channel in the [Ellaism Discord](https://discord.ellaism.org).
+
+## Setup Parity for mining
 
 Grab the latest version of [ethminer](https://github.com/hackmod/ethminer/releases) from @ethminer https://github.com/hackmod/ethminer/releases
 
@@ -53,7 +55,7 @@ You'll also want to add this option when running parity:
 ```
 
 
-### ethminer
+## Mining with ethminer
 
 
 On windows I use this batch file to start ethminer
@@ -73,6 +75,7 @@ echo restart miner...
 ```
 
 Change the wallet address and IP address in the ethminer.exe command line to match your values.
+
 
 ## Stats page
 
