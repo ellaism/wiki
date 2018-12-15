@@ -3,7 +3,7 @@
 <!-- SUBTITLE: A stable network with no premine and no dev fees -->
 
 [ProgPoW](progpow)
-Join us in testing ProgPoW on our Test Net, instructions are included.
+Help us try ProgPoW on Mtihani network, instructions are included.
 
 - [About](about)
     - [Principles](about/principles)
