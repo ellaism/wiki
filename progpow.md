@@ -24,10 +24,6 @@ Report any issues, give feedback, get support in the #umbrella channel in the [E
 
 ## Setup Parity for mining
 
-Grab the latest version of [ethminer](https://github.com/hackmod/ethminer/releases) from @ethminer https://github.com/hackmod/ethminer/releases
-
-If you want to compile your own binaries, instructions can be found in `ethminer`'s manual (https://github.com/ethereum-mining/ethminer/blob/master/docs/BUILD.md).
-
 To mine against your testnet node you need to create an account and start parity with a few options.  See the [parity wiki](https://wiki.parity.io/Mining) for detailed instructions.
 
 ### Create an account
@@ -57,6 +53,9 @@ You'll also want to add this option when running parity:
 
 ## Mining with ethminer
 
+Grab the latest version of [ethminer](https://github.com/hackmod/ethminer/releases) from @ethminer https://github.com/hackmod/ethminer/releases
+
+If you want to compile your own binaries, instructions can be found in `ethminer`'s manual (https://github.com/ethereum-mining/ethminer/blob/master/docs/BUILD.md).
 
 On windows I use this batch file to start ethminer
 
