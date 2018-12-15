@@ -90,7 +90,9 @@ WS_SECRET=mtihani
 
 ## Explorer
 
-Available soon
+Visit the [Mtihani explorer](http://lab.ellaism.org/home) hosted by @limax
+
+
 
 
 
