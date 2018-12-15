@@ -33,8 +33,9 @@ cargo run --release -- account new
 ```
 
 
-### Start parity
 Enter a password for new wallet and then use the public address that is generate to start parity.
+
+### Start parity
 
 ```
 cargo run --release -- --author 0x249852075fd4cdbbda9f0eadde35c09c85052e30 --ws-interface=0.0.0.0 --jsonrpc-interface=0.0.0.0 --chain mtihani.json
