@@ -80,9 +80,10 @@ Our [stats page](https://mtihani.outdoordevs.com/) is located at https://mtihani
 
 If you want to add your node to the stats page use the following environment variables when you setup [eth-net-intelligence-api](https://github.com/cubedro/eth-net-intelligence-api)
 
+```
 WS_SERVER=https://mtihani.outdoordevs.com/
 WS_SECRET=mtihani
-
+```
 
 ## Explorer
 
