@@ -1,4 +1,4 @@
-<!-- TITLE: Community Project Bounties -->
+![Bounty Category](/uploads/bounty-category.png "Bounty Category")<!-- TITLE: Community Project Bounties -->
 <!-- SUBTITLE: How to see the list of bounties and how to post a bounty -->
 
 # Bounties Network
