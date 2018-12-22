@@ -5,7 +5,7 @@
 
 Join us in trying out the [Bounties Network](https://explorer.bounties.network) platform, a decentralized topic funding system that lets you stake ETH or **any ERC-20** token towards a project. All you need is a Web3 enabled browser and an Ethereum account to use the site.
 
-[All Ellaism Bounties](https://explorer.bounties.network/explorer?bountyStage=active%2Ccompleted%2Cexpired%2Cdead&platform=bounties-network&category=Ellaism)
+[All Ellaism Bounties](https://explorer.bounties.network/explorer?bountyStage=active%2Ccompleted%2Cexpired%2Cdead&platform=bounties-network&category=ellaism)
 
 
 If you create a bounty, try be sure to add the **Ellaism** category so people can browse them.
