@@ -3,7 +3,7 @@
 
 # WebAssembly Scripting
 
-The Ellaism MainNet has Web Assembly scripting enabled at block 2,000,000.  (Around August 6th, 2018)
+The Ellaism MainNet has Web Assembly scripting enabled at block 2,000,000.  (Around August 4th, 2018)
 
 You can create an deploy Solidity or any language that supports Web Assembly.
 
