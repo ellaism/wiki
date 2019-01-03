@@ -15,6 +15,7 @@ Help us try ProgPoW on Mtihani network, instructions are included.
     - [Dev Fund](about/dev-fund)
     - [People](about/people)
     - [Hard fork](hardfork)
+    - [WebAssembly](wasm)
 - [Community](community)
     - [Code of conduct](community/code-of-conduct)
     - [Community Fund](community/community-fund)
