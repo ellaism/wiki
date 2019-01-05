@@ -2,7 +2,7 @@
 <!-- TITLE: Dapps -->
 <!-- SUBTITLE: Ellaism - A stable network with no premine and no dev fees -->
 
-The following dapps are currently deployed in the Ellaism network:
+The following dapps are currently deployed on the Ellaism network:
 
 <div id="dapp-content">
 
