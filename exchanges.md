@@ -3,14 +3,11 @@
 
 <div id="dapp-content">
 
-* [Cryptopia](https://www.cryptopia.co.nz/Exchange?market=ELLA_BTC)
-* [Stocks Exchange](https://app.stocks.exchange/en/basic-trade/pair/BTC/ELLA)
-* [Cryptobroker](https://trade.cryptobroker.io/markets/ellabtc)  ( Site overloaded, reports of very slow transfers)
+* [Stex](https://app.stocks.exchange/en/basic-trade/pair/BTC/ELLA)
+* [Cryptopia](https://www.cryptopia.co.nz/) Unavailable
 * [LDVBank](https://ldvbank.com/en-us/trading/)
-* [Bisq](https://bisq.network/)
 
-You can buy Ella with a credit card from IndaCoin.  Know your customer documents must be submitted (Drivers license, credit card, selfie with both pieces of ID).
 
-* [IndaCoin](https://indacoin.com/)
+New exchanges coming 2019
 
 </div>
